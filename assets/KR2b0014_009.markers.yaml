@@ -1,0 +1,481 @@
+canonical_identifier: bkk:krp/KR2b0014/bkk/v1/markers/9
+seq: 9
+markers:
+  front:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR2b0014_krp_009-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR2b0014_SBCK_009-1a01}
+  - {type: variant, offset: 0, length: 10, content: 司馬溫公稽古錄卷之九, WYG: ''}
+  - {type: substitution, offset: 6, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
+  body:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR2b0014_krp_009-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR2b0014_SBCK_009-1a02}
+  - {type: indent, offset: 0, content: 　　　, id: KR2b0014_krp_009-bkkind1}
+  - {type: 'kr:newline', offset: 2, content: '
+
+      ', id: KR2b0014_krp_009-bkkkrnewl2}
+  - {type: line-break, offset: 2, content: '', id: KR2b0014_SBCK_009-1a03}
+  - {type: indent, offset: 2, content: 　, id: KR2b0014_krp_009-bkkind2}
+  - {type: variant, offset: 2, length: 1, content: 恭, WYG: 共}
+  - {type: punctuation, offset: 10, content: (, id: KR2b0014_krp_009-bkkpn1}
+  - {type: variant, offset: 10, length: 0, content: '', WYG: 囏居}
+  - {type: substitution, offset: 10, original: 閑, replacement: 間, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4095}}
+  - {type: punctuation, offset: 12, content: /, id: KR2b0014_krp_009-bkkpn2}
+  - {type: variant, offset: 12, length: 2, content: 囏居, WYG: ''}
+  - {type: punctuation, offset: 14, content: ), id: KR2b0014_krp_009-bkkpn3}
+  - {type: 'kr:non-cjk', offset: 14, content: ○, id: KR2b0014_krp_009-bkkkrnonc1}
+  - {type: variant, offset: 17, length: 1, content: 恭, WYG: 共}
+  - {type: 'kr:newline', offset: 21, content: '
+
+      ', id: KR2b0014_krp_009-bkkkrnewl3}
+  - {type: line-break, offset: 21, content: '', id: KR2b0014_SBCK_009-1a04}
+  - {type: indent, offset: 21, content: 　, id: KR2b0014_krp_009-bkkind3}
+  - {type: 'kr:non-cjk', offset: 25, content: ○, id: KR2b0014_krp_009-bkkkrnonc2}
+  - {type: variant, offset: 36, length: 1, content: 爕, WYG: 燮}
+  - {type: substitution, offset: 36, original: 爕, replacement: 燮, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-2557}}
+  - {type: 'kr:non-cjk', offset: 37, content: ○, id: KR2b0014_krp_009-bkkkrnonc3}
+  - {type: 'kr:newline', offset: 37, content: '
+
+      ', id: KR2b0014_krp_009-bkkkrnewl4}
+  - {type: line-break, offset: 37, content: '', id: KR2b0014_SBCK_009-1a05}
+  - {type: indent, offset: 37, content: 　, id: KR2b0014_krp_009-bkkind4}
+  - {type: 'kr:newline', offset: 55, content: '
+
+      ', id: KR2b0014_krp_009-bkkkrnewl5}
+  - {type: line-break, offset: 55, content: '', id: KR2b0014_SBCK_009-1a06}
+  - {type: indent, offset: 55, content: 　, id: KR2b0014_krp_009-bkkind5}
+  - {type: 'kr:non-cjk', offset: 57, content: ○, id: KR2b0014_krp_009-bkkkrnonc4}
+  - {type: 'kr:newline', offset: 72, content: '
+
+      ', id: KR2b0014_krp_009-bkkkrnewl6}
+  - {type: line-break, offset: 72, content: '', id: KR2b0014_SBCK_009-1a07}
+  - {type: indent, offset: 72, content: 　, id: KR2b0014_krp_009-bkkind6}
+  - {type: page-break, offset: 81, content: '', id: KR2b0014_WYG_009-1b, image: WYG0312/WYG0312-0414b.png}
+  - {type: variant, offset: 84, length: 1, content: 遠, WYG: 逺}
+  - {type: 'kr:newline', offset: 90, content: '
+
+      ', id: KR2b0014_krp_009-bkkkrnewl7}
+  - {type: line-break, offset: 90, content: '', id: KR2b0014_SBCK_009-1a08}
+  - {type: indent, offset: 90, content: 　, id: KR2b0014_krp_009-bkkind7}
+  - {type: 'kr:newline', offset: 108, content: '
+
+      ', id: KR2b0014_krp_009-bkkkrnewl8}
+  - {type: line-break, offset: 108, content: '', id: KR2b0014_SBCK_009-1a09}
+  - {type: indent, offset: 108, content: 　, id: KR2b0014_krp_009-bkkind8}
+  - {type: 'kr:newline', offset: 126, content: '
+
+      ', id: KR2b0014_krp_009-bkkkrnewl9}
+  - {type: page-break, offset: 126, content: '', id: KR2b0014_SBCK_009-1b}
+  - {type: 'kr:newline', offset: 126, content: '
+
+      ', id: KR2b0014_krp_009-bkkkrnewl10}
+  - {type: line-break, offset: 126, content: '', id: KR2b0014_SBCK_009-1b01}
+  - {type: indent, offset: 126, content: 　, id: KR2b0014_krp_009-bkkind9}
+  - {type: variant, offset: 141, length: 1, content: 專, WYG: 専}
+  - {type: 'kr:newline', offset: 144, content: '
+
+      ', id: KR2b0014_krp_009-bkkkrnewl11}
+  - {type: line-break, offset: 144, content: '', id: KR2b0014_SBCK_009-1b02}
+  - {type: indent, offset: 144, content: 　, id: KR2b0014_krp_009-bkkind10}
+  - {type: variant, offset: 159, length: 1, content: 專, WYG: 専}
+  - {type: 'kr:newline', offset: 162, content: '
+
+      ', id: KR2b0014_krp_009-bkkkrnewl12}
+  - {type: line-break, offset: 162, content: '', id: KR2b0014_SBCK_009-1b03}
+  - {type: indent, offset: 162, content: 　, id: KR2b0014_krp_009-bkkind11}
+  - {type: variant, offset: 175, length: 1, content: 聽, WYG: 聴}
+  - {type: 'kr:newline', offset: 180, content: '
+
+      ', id: KR2b0014_krp_009-bkkkrnewl13}
+  - {type: line-break, offset: 180, content: '', id: KR2b0014_SBCK_009-1b04}
+  - {type: indent, offset: 180, content: 　, id: KR2b0014_krp_009-bkkind12}
+  - {type: punctuation, offset: 189, content: (, id: KR2b0014_krp_009-bkkpn4}
+  - {type: variant, offset: 189, length: 0, content: '', WYG: 監察也王以為巫有}
+  - {type: punctuation, offset: 196, content: /, id: KR2b0014_krp_009-bkkpn5}
+  - {type: variant, offset: 196, length: 8, content: 監察也王以爲巫有, WYG: ''}
+  - {type: substitution, offset: 201, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: punctuation, offset: 204, content: ), id: KR2b0014_krp_009-bkkpn6}
+  - {type: 'kr:newline', offset: 205, content: '
+
+      ', id: KR2b0014_krp_009-bkkkrnewl14}
+  - {type: line-break, offset: 205, content: '', id: KR2b0014_SBCK_009-1b05}
+  - {type: indent, offset: 205, content: 　, id: KR2b0014_krp_009-bkkind13}
+  - {type: 'kr:newline', offset: 223, content: '
+
+      ', id: KR2b0014_krp_009-bkkkrnewl15}
+  - {type: line-break, offset: 223, content: '', id: KR2b0014_SBCK_009-1b06}
+  - {type: indent, offset: 223, content: 　, id: KR2b0014_krp_009-bkkind14}
+  - {type: 'kr:newline', offset: 241, content: '
+
+      ', id: KR2b0014_krp_009-bkkkrnewl16}
+  - {type: line-break, offset: 241, content: '', id: KR2b0014_SBCK_009-1b07}
+  - {type: indent, offset: 241, content: 　, id: KR2b0014_krp_009-bkkind15}
+  - {type: page-break, offset: 248, content: '', id: KR2b0014_WYG_009-2a, image: WYG0312/WYG0312-0414c.png}
+  - {type: 'kr:newline', offset: 259, content: '
+
+      ', id: KR2b0014_krp_009-bkkkrnewl17}
+  - {type: line-break, offset: 259, content: '', id: KR2b0014_SBCK_009-1b08}
+  - {type: indent, offset: 259, content: 　, id: KR2b0014_krp_009-bkkind16}
+  - {type: 'kr:newline', offset: 277, content: '
+
+      ', id: KR2b0014_krp_009-bkkkrnewl18}
+  - {type: line-break, offset: 277, content: '', id: KR2b0014_SBCK_009-1b09}
+  - {type: indent, offset: 277, content: 　, id: KR2b0014_krp_009-bkkind17}
+  - {type: 'kr:newline', offset: 295, content: '
+
+      ', id: KR2b0014_krp_009-bkkkrnewl19}
+  - {type: page-break, offset: 295, content: '', id: KR2b0014_SBCK_009-2a}
+  - {type: 'kr:newline', offset: 295, content: '
+
+      ', id: KR2b0014_krp_009-bkkkrnewl20}
+  - {type: line-break, offset: 295, content: '', id: KR2b0014_SBCK_009-2a01}
+  - {type: indent, offset: 295, content: 　, id: KR2b0014_krp_009-bkkind18}
+  - {type: 'kr:newline', offset: 297, content: '
+
+      ', id: KR2b0014_krp_009-bkkkrnewl21}
+  - {type: line-break, offset: 297, content: '', id: KR2b0014_SBCK_009-2a02}
+  - {type: indent, offset: 297, content: 　　, id: KR2b0014_krp_009-bkkind19}
+  - {type: 'kr:newline', offset: 306, content: '
+
+      ', id: KR2b0014_krp_009-bkkkrnewl22}
+  - {type: line-break, offset: 306, content: '', id: KR2b0014_SBCK_009-2a03}
+  - {type: indent, offset: 306, content: 　　　, id: KR2b0014_krp_009-bkkind20}
+  - {type: punctuation, offset: 307, content: (, id: KR2b0014_krp_009-bkkpn7}
+  - {type: variant, offset: 307, length: 0, content: '', WYG: 周公旦姬姓周文王之子武王之弟佐}
+  - {type: punctuation, offset: 322, content: /, id: KR2b0014_krp_009-bkkpn8}
+  - {type: variant, offset: 322, length: 0, content: '', WYG: 王幼}
+  - {type: variant, offset: 324, length: 7, content: 旦姬姓周文王之, WYG: 攝行天}
+  - {type: variant, offset: 332, length: 5, content: 武王之弟佐, WYG: 事七年致太平復}
+  - {type: punctuation, offset: 337, content: ), id: KR2b0014_krp_009-bkkpn9}
+  - {type: 'kr:newline', offset: 337, content: '
+
+      ', id: KR2b0014_krp_009-bkkkrnewl23}
+  - {type: line-break, offset: 337, content: '', id: KR2b0014_SBCK_009-2a04}
+  - {type: punctuation, offset: 337, content: (, id: KR2b0014_krp_009-bkkpn10}
+  - {type: punctuation, offset: 352, content: /, id: KR2b0014_krp_009-bkkpn11}
+  - {type: variant, offset: 352, length: 2, content: 王幼, WYG: 都曲阜留}
+  - {type: variant, offset: 356, length: 8, content: 攝行天子事七年致, WYG: 自輔為}
+  - {type: variant, offset: 365, length: 2, content: 平復, WYG: 師周公薨於}
+  - {type: punctuation, offset: 367, content: ), id: KR2b0014_krp_009-bkkpn12}
+  - {type: 'kr:newline', offset: 367, content: '
+
+      ', id: KR2b0014_krp_009-bkkkrnewl24}
+  - {type: line-break, offset: 367, content: '', id: KR2b0014_SBCK_009-2a05}
+  - {type: punctuation, offset: 367, content: (, id: KR2b0014_krp_009-bkkpn13}
+  - {type: 'kr:non-cjk', offset: 379, content: ○, id: KR2b0014_krp_009-bkkkrnonc5}
+  - {type: punctuation, offset: 381, content: /, id: KR2b0014_krp_009-bkkpn14}
+  - {type: variant, offset: 381, length: 15, content: 都曲阜留周公自輔爲太師周公薨於, WYG: 今兖}
+  - {type: substitution, offset: 389, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: punctuation, offset: 396, content: ), id: KR2b0014_krp_009-bkkpn15}
+  - {type: 'kr:newline', offset: 396, content: '
+
+      ', id: KR2b0014_krp_009-bkkkrnewl25}
+  - {type: line-break, offset: 396, content: '', id: KR2b0014_SBCK_009-2a06}
+  - {type: punctuation, offset: 396, content: (, id: KR2b0014_krp_009-bkkpn16}
+  - {type: punctuation, offset: 397, content: /, id: KR2b0014_krp_009-bkkpn17}
+  - {type: variant, offset: 397, length: 2, content: 今兗, WYG: ''}
+  - {type: punctuation, offset: 399, content: ), id: KR2b0014_krp_009-bkkpn18}
+  - {type: 'kr:newline', offset: 399, content: '
+
+      ', id: KR2b0014_krp_009-bkkkrnewl26}
+  - {type: line-break, offset: 399, content: '', id: KR2b0014_SBCK_009-2a07}
+  - {type: indent, offset: 399, content: 　　　, id: KR2b0014_krp_009-bkkind21}
+  - {type: punctuation, offset: 400, content: (, id: KR2b0014_krp_009-bkkpn19}
+  - {type: variant, offset: 400, length: 15, content: 爲四岳封於吕太公事周爲文武師佐, WYG: ''}
+  - {type: substitution, offset: 400, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: substitution, offset: 402, original: 岳, replacement: 嶽, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4348}}
+  - {type: substitution, offset: 410, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: punctuation, offset: 415, content: /, id: KR2b0014_krp_009-bkkpn20}
+  - {type: punctuation, offset: 430, content: ), id: KR2b0014_krp_009-bkkpn21}
+  - {type: 'kr:newline', offset: 430, content: '
+
+      ', id: KR2b0014_krp_009-bkkkrnewl27}
+  - {type: line-break, offset: 430, content: '', id: KR2b0014_SBCK_009-2a08}
+  - {type: punctuation, offset: 430, content: (, id: KR2b0014_krp_009-bkkpn22}
+  - {type: variant, offset: 430, length: 0, content: '', WYG: 為四岳封於吕太公事周為文武師佐武王滅商號尚父封於齊都營丘太公}
+  - {type: page-break, offset: 430, content: '', id: KR2b0014_WYG_009-2b, image: WYG0312/WYG0312-0414d.png}
+  - {type: punctuation, offset: 445, content: /, id: KR2b0014_krp_009-bkkpn23}
+  - {type: variant, offset: 445, length: 10, content: 武王滅商號尚父封於齊, WYG: 公静徙}
+  - {type: variant, offset: 456, length: 1, content: 營, WYG: 薄}
+  - {type: variant, offset: 457, length: 1, content: 丘, WYG: 姑}
+  - {type: variant, offset: 458, length: 1, content: 太, WYG: 胡}
+  - {type: punctuation, offset: 460, content: ), id: KR2b0014_krp_009-bkkpn24}
+  - {type: 'kr:newline', offset: 460, content: '
+
+      ', id: KR2b0014_krp_009-bkkkrnewl28}
+  - {type: line-break, offset: 460, content: '', id: KR2b0014_SBCK_009-2a09}
+  - {type: punctuation, offset: 460, content: (, id: KR2b0014_krp_009-bkkpn25}
+  - {type: variant, offset: 460, length: 0, content: '', WYG: 弟獻公山徙都臨}
+  - {type: 'kr:non-cjk', offset: 469, content: ○, id: KR2b0014_krp_009-bkkkrnonc6}
+  - {type: punctuation, offset: 474, content: /, id: KR2b0014_krp_009-bkkpn26}
+  - {type: variant, offset: 474, length: 4, content: 公靜徙都, WYG: 州界}
+  - {type: variant, offset: 480, length: 9, content: 胡公弟獻公山徙都臨, WYG: 在棣州}
+  - {type: punctuation, offset: 489, content: ), id: KR2b0014_krp_009-bkkpn27}
+  - {type: 'kr:newline', offset: 489, content: '
+
+      ', id: KR2b0014_krp_009-bkkkrnewl29}
+  - {type: page-break, offset: 489, content: '', id: KR2b0014_SBCK_009-2b}
+  - {type: 'kr:newline', offset: 489, content: '
+
+      ', id: KR2b0014_krp_009-bkkkrnewl30}
+  - {type: line-break, offset: 489, content: '', id: KR2b0014_SBCK_009-2b01}
+  - {type: punctuation, offset: 489, content: (, id: KR2b0014_krp_009-bkkpn28}
+  - {type: punctuation, offset: 496, content: /, id: KR2b0014_krp_009-bkkpn29}
+  - {type: variant, offset: 496, length: 7, content: 州界薄姑在棣州, WYG: ''}
+  - {type: punctuation, offset: 503, content: ), id: KR2b0014_krp_009-bkkpn30}
+  - {type: 'kr:newline', offset: 503, content: '
+
+      ', id: KR2b0014_krp_009-bkkkrnewl31}
+  - {type: line-break, offset: 503, content: '', id: KR2b0014_SBCK_009-2b02}
+  - {type: indent, offset: 503, content: 　　　, id: KR2b0014_krp_009-bkkind22}
+  - {type: punctuation, offset: 504, content: (, id: KR2b0014_krp_009-bkkpn31}
+  - {type: variant, offset: 504, length: 15, content: 王封叔虞於唐在河汾之東叔虞子爕, WYG: ''}
+  - {type: substitution, offset: 518, original: 爕, replacement: 燮, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-2557}}
+  - {type: punctuation, offset: 519, content: /, id: KR2b0014_krp_009-bkkpn32}
+  - {type: punctuation, offset: 534, content: ), id: KR2b0014_krp_009-bkkpn33}
+  - {type: 'kr:newline', offset: 534, content: '
+
+      ', id: KR2b0014_krp_009-bkkkrnewl32}
+  - {type: line-break, offset: 534, content: '', id: KR2b0014_SBCK_009-2b03}
+  - {type: punctuation, offset: 534, content: (, id: KR2b0014_krp_009-bkkpn34}
+  - {type: variant, offset: 534, length: 0, content: '', WYG: 王封叔虞於唐在河汾之東叔虞子燮為晉侯又四世}
+  - {type: punctuation, offset: 539, content: /, id: KR2b0014_krp_009-bkkpn35}
+  - {type: variant, offset: 539, length: 6, content: 爲晉侯又四世, WYG: ''}
+  - {type: substitution, offset: 539, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: punctuation, offset: 545, content: ), id: KR2b0014_krp_009-bkkpn36}
+  - {type: 'kr:newline', offset: 545, content: '
+
+      ', id: KR2b0014_krp_009-bkkkrnewl33}
+  - {type: line-break, offset: 545, content: '', id: KR2b0014_SBCK_009-2b04}
+  - {type: indent, offset: 545, content: 　　　, id: KR2b0014_krp_009-bkkind23}
+  - {type: punctuation, offset: 546, content: (, id: KR2b0014_krp_009-bkkpn37}
+  - {type: variant, offset: 546, length: 0, content: '', WYG: 仲嬴姓其先出於髙陽氏至伯益佐禹}
+  - {type: variant, offset: 548, length: 1, content: 爲, WYG: 為}
+  - {type: substitution, offset: 548, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: punctuation, offset: 561, content: /, id: KR2b0014_krp_009-bkkpn38}
+  - {type: variant, offset: 561, length: 1, content: 仲, WYG: 來}
+  - {type: variant, offset: 562, length: 1, content: 嬴, WYG: 革}
+  - {type: variant, offset: 563, length: 1, content: 姓, WYG: 皆}
+  - {type: variant, offset: 564, length: 1, content: 其, WYG: 以}
+  - {type: variant, offset: 565, length: 1, content: 先, WYG: 材}
+  - {type: variant, offset: 566, length: 1, content: 出, WYG: 力}
+  - {type: variant, offset: 567, length: 1, content: 於, WYG: 事}
+  - {type: variant, offset: 568, length: 1, content: 高, WYG: 紂}
+  - {type: variant, offset: 569, length: 1, content: 陽, WYG: 與}
+  - {type: variant, offset: 570, length: 1, content: 氏, WYG: 紂}
+  - {type: variant, offset: 571, length: 1, content: 至, WYG: 俱}
+  - {type: variant, offset: 572, length: 1, content: 伯, WYG: 死}
+  - {type: variant, offset: 573, length: 1, content: 益, WYG: 飛}
+  - {type: variant, offset: 574, length: 1, content: 佐, WYG: 廉}
+  - {type: variant, offset: 575, length: 1, content: 禹, WYG: 𤣥}
+  - {type: punctuation, offset: 576, content: ), id: KR2b0014_krp_009-bkkpn39}
+  - {type: 'kr:newline', offset: 576, content: '
+
+      ', id: KR2b0014_krp_009-bkkkrnewl34}
+  - {type: line-break, offset: 576, content: '', id: KR2b0014_SBCK_009-2b05}
+  - {type: punctuation, offset: 576, content: (, id: KR2b0014_krp_009-bkkpn40}
+  - {type: punctuation, offset: 591, content: /, id: KR2b0014_krp_009-bkkpn41}
+  - {type: variant, offset: 591, length: 30, content: 來革皆以材力事紂與紂俱死飛廉玄王主馬于汧渭之間馬又蕃息孝王邑, WYG: ''}
+  - {type: punctuation, offset: 606, content: ), id: KR2b0014_krp_009-bkkpn42}
+  - {type: 'kr:newline', offset: 606, content: '
+
+      ', id: KR2b0014_krp_009-bkkkrnewl35}
+  - {type: line-break, offset: 606, content: '', id: KR2b0014_SBCK_009-2b06}
+  - {type: punctuation, offset: 606, content: (, id: KR2b0014_krp_009-bkkpn43}
+  - {type: punctuation, offset: 621, content: /, id: KR2b0014_krp_009-bkkpn44}
+  - {type: variant, offset: 622, length: 1, content: 爲, WYG: 為}
+  - {type: substitution, offset: 622, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: variant, offset: 633, length: 1, content: 爲, WYG: 為}
+  - {type: substitution, offset: 633, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: punctuation, offset: 636, content: ), id: KR2b0014_krp_009-bkkpn45}
+  - {type: 'kr:newline', offset: 636, content: '
+
+      ', id: KR2b0014_krp_009-bkkkrnewl36}
+  - {type: line-break, offset: 636, content: '', id: KR2b0014_SBCK_009-2b07}
+  - {type: punctuation, offset: 636, content: (, id: KR2b0014_krp_009-bkkpn46}
+  - {type: variant, offset: 636, length: 6, content: 生秦仲秦仲始, WYG: 王主馬于汧渭之間馬}
+  - {type: 'kr:non-cjk', offset: 643, content: ○, id: KR2b0014_krp_009-bkkkrnonc7}
+  - {type: variant, offset: 643, length: 4, content: 秦今秦州, WYG: 蕃息孝王邑}
+  - {type: punctuation, offset: 647, content: /, id: KR2b0014_krp_009-bkkpn47}
+  - {type: punctuation, offset: 659, content: ), id: KR2b0014_krp_009-bkkpn48}
+  - {type: 'kr:newline', offset: 659, content: '
+
+      ', id: KR2b0014_krp_009-bkkkrnewl37}
+  - {type: line-break, offset: 659, content: '', id: KR2b0014_SBCK_009-2b08}
+  - {type: indent, offset: 659, content: 　　　, id: KR2b0014_krp_009-bkkind24}
+  - {type: variant, offset: 659, length: 0, content: '', WYG: 生秦仲秦仲始大秦今秦州}
+  - {type: page-break, offset: 659, content: '', id: KR2b0014_WYG_009-3a, image: WYG0312/WYG0312-0415a.png}
+  - {type: punctuation, offset: 660, content: (, id: KR2b0014_krp_009-bkkpn49}
+  - {type: variant, offset: 660, length: 0, content: '', WYG: 芈姓其先出於髙陽氏有子曰黎為髙}
+  - {type: variant, offset: 662, length: 1, content: 火, WYG: 大}
+  - {type: variant, offset: 666, length: 1, content: 德, WYG: 徳}
+  - {type: substitution, offset: 673, original: 呉, replacement: 吳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3155}}
+  - {type: variant, offset: 674, length: 2, content: 囬芉, WYG: 回代為祝融其後子孫蕃衍為八}
+  - {type: substitution, offset: 674, original: 囬, replacement: 回, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3885}}
+  - {type: punctuation, offset: 675, content: /, id: KR2b0014_krp_009-bkkpn50}
+  - {type: variant, offset: 677, length: 13, content: 其先出於高陽氏有子曰黎爲高, WYG: 夏商}
+  - {type: substitution, offset: 688, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: punctuation, offset: 690, content: ), id: KR2b0014_krp_009-bkkpn51}
+  - {type: 'kr:newline', offset: 690, content: '
+
+      ', id: KR2b0014_krp_009-bkkkrnewl38}
+  - {type: line-break, offset: 690, content: '', id: KR2b0014_SBCK_009-2b09}
+  - {type: punctuation, offset: 690, content: (, id: KR2b0014_krp_009-bkkpn52}
+  - {type: variant, offset: 692, length: 1, content: 爲, WYG: 為}
+  - {type: substitution, offset: 692, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: variant, offset: 696, length: 1, content: 巳, WYG: 已}
+  - {type: punctuation, offset: 705, content: /, id: KR2b0014_krp_009-bkkpn53}
+  - {type: variant, offset: 705, length: 30, content: 代爲祝融其後子孫蕃衍爲八姓夏商曹姓鄒莒斟姓無後呉囬之孫曰季連, WYG: ''}
+  - {type: substitution, offset: 706, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: substitution, offset: 715, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: punctuation, offset: 720, content: ), id: KR2b0014_krp_009-bkkpn54}
+  - {type: 'kr:newline', offset: 720, content: '
+
+      ', id: KR2b0014_krp_009-bkkkrnewl39}
+  - {type: page-break, offset: 720, content: '', id: KR2b0014_SBCK_009-3a}
+  - {type: 'kr:newline', offset: 720, content: '
+
+      ', id: KR2b0014_krp_009-bkkkrnewl40}
+  - {type: line-break, offset: 720, content: '', id: KR2b0014_SBCK_009-3a01}
+  - {type: punctuation, offset: 720, content: (, id: KR2b0014_krp_009-bkkpn55}
+  - {type: substitution, offset: 728, original: 呉, replacement: 吳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3155}}
+  - {type: substitution, offset: 729, original: 囬, replacement: 回, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3885}}
+  - {type: punctuation, offset: 735, content: /, id: KR2b0014_krp_009-bkkpn56}
+  - {type: substitution, offset: 746, original: 鄔, replacement: 塢, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3780}}
+  - {type: substitution, offset: 748, original: 偪, replacement: 逼, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1209}}
+  - {type: punctuation, offset: 750, content: ), id: KR2b0014_krp_009-bkkpn57}
+  - {type: 'kr:newline', offset: 750, content: '
+
+      ', id: KR2b0014_krp_009-bkkkrnewl41}
+  - {type: line-break, offset: 750, content: '', id: KR2b0014_SBCK_009-3a02}
+  - {type: punctuation, offset: 750, content: (, id: KR2b0014_krp_009-bkkpn58}
+  - {type: variant, offset: 750, length: 1, content: 苖, WYG: 曹姓鄒莒斟姓無後呉回之孫曰季連為芈姓楚之祖也世居蠻荆為君長其苗}
+  - {type: punctuation, offset: 765, content: /, id: KR2b0014_krp_009-bkkpn59}
+  - {type: variant, offset: 765, length: 3, content: 爲芉姓, WYG: 事成王封為}
+  - {type: substitution, offset: 765, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: variant, offset: 769, length: 11, content: 之祖也世居蠻荆爲君長其, WYG: 子熊繹後}
+  - {type: substitution, offset: 776, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: punctuation, offset: 780, content: ), id: KR2b0014_krp_009-bkkpn60}
+  - {type: 'kr:newline', offset: 780, content: '
+
+      ', id: KR2b0014_krp_009-bkkkrnewl42}
+  - {type: line-break, offset: 780, content: '', id: KR2b0014_SBCK_009-3a03}
+  - {type: punctuation, offset: 780, content: (, id: KR2b0014_krp_009-bkkpn61}
+  - {type: 'kr:non-cjk', offset: 785, content: ○, id: KR2b0014_krp_009-bkkkrnonc8}
+  - {type: variant, offset: 785, length: 1, content: 芉, WYG: 芈}
+  - {type: punctuation, offset: 788, content: /, id: KR2b0014_krp_009-bkkpn62}
+  - {type: variant, offset: 788, length: 10, content: 事成王封爲楚子熊繹後, WYG: ''}
+  - {type: substitution, offset: 792, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: punctuation, offset: 798, content: ), id: KR2b0014_krp_009-bkkpn63}
+  - {type: 'kr:newline', offset: 798, content: '
+
+      ', id: KR2b0014_krp_009-bkkkrnewl43}
+  - {type: line-break, offset: 798, content: '', id: KR2b0014_SBCK_009-3a04}
+  - {type: indent, offset: 798, content: 　　, id: KR2b0014_krp_009-bkkind25}
+  - {type: punctuation, offset: 799, content: (, id: KR2b0014_krp_009-bkkpn64}
+  - {type: variant, offset: 799, length: 15, content: 誅武庚祿父以微子代殷後封於宋世, WYG: ''}
+  - {type: punctuation, offset: 814, content: /, id: KR2b0014_krp_009-bkkpn65}
+  - {type: punctuation, offset: 829, content: ), id: KR2b0014_krp_009-bkkpn66}
+  - {type: 'kr:newline', offset: 829, content: '
+
+      ', id: KR2b0014_krp_009-bkkkrnewl44}
+  - {type: line-break, offset: 829, content: '', id: KR2b0014_SBCK_009-3a05}
+  - {type: punctuation, offset: 829, content: (, id: KR2b0014_krp_009-bkkpn67}
+  - {type: variant, offset: 829, length: 0, content: '', WYG: 誅武庚禄父以微子代殷}
+  - {type: variant, offset: 830, length: 6, content: 六君至僖公舉, WYG: 封於}
+  - {type: 'kr:non-cjk', offset: 836, content: ○, id: KR2b0014_krp_009-bkkkrnonc9}
+  - {type: variant, offset: 837, length: 5, content: 今應天府爲, WYG: 世為}
+  - {type: punctuation, offset: 841, content: /, id: KR2b0014_krp_009-bkkpn68}
+  - {type: substitution, offset: 841, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: punctuation, offset: 855, content: ), id: KR2b0014_krp_009-bkkpn69}
+  - {type: 'kr:newline', offset: 855, content: '
+
+      ', id: KR2b0014_krp_009-bkkkrnewl45}
+  - {type: line-break, offset: 855, content: '', id: KR2b0014_SBCK_009-3a06}
+  - {type: indent, offset: 855, content: 　　　, id: KR2b0014_krp_009-bkkind26}
+  - {type: variant, offset: 855, length: 0, content: '', WYG: 後六君至僖公舉宋今應天府}
+  - {type: page-break, offset: 855, content: '', id: KR2b0014_WYG_009-3b, image: WYG0312/WYG0312-0415b.png}
+  - {type: punctuation, offset: 856, content: (, id: KR2b0014_krp_009-bkkpn70}
+  - {type: variant, offset: 856, length: 0, content: '', WYG: 康叔封姬姓周公之弟也周公既伐管}
+  - {type: punctuation, offset: 871, content: /, id: KR2b0014_krp_009-bkkpn71}
+  - {type: variant, offset: 871, length: 19, content: 康叔封姬姓周公之弟也周公既伐管衛今衛州, WYG: ''}
+  - {type: punctuation, offset: 886, content: ), id: KR2b0014_krp_009-bkkpn72}
+  - {type: 'kr:newline', offset: 886, content: '
+
+      ', id: KR2b0014_krp_009-bkkkrnewl46}
+  - {type: line-break, offset: 886, content: '', id: KR2b0014_SBCK_009-3a07}
+  - {type: punctuation, offset: 886, content: (, id: KR2b0014_krp_009-bkkpn73}
+  - {type: 'kr:non-cjk', offset: 886, content: ○, id: KR2b0014_krp_009-bkkkrnonc10}
+  - {type: punctuation, offset: 890, content: /, id: KR2b0014_krp_009-bkkpn74}
+  - {type: punctuation, offset: 895, content: ), id: KR2b0014_krp_009-bkkpn75}
+  - {type: 'kr:newline', offset: 895, content: '
+
+      ', id: KR2b0014_krp_009-bkkkrnewl47}
+  - {type: line-break, offset: 895, content: '', id: KR2b0014_SBCK_009-3a08}
+  - {type: indent, offset: 895, content: 　　　, id: KR2b0014_krp_009-bkkind27}
+  - {type: variant, offset: 895, length: 0, content: '', WYG: 衛今衛州}
+  - {type: punctuation, offset: 896, content: (, id: KR2b0014_krp_009-bkkpn76}
+  - {type: variant, offset: 896, length: 15, content: 大姬妻胡公而封諸陳賜姓媯氏後五, WYG: ''}
+  - {type: punctuation, offset: 911, content: /, id: KR2b0014_krp_009-bkkpn77}
+  - {type: punctuation, offset: 926, content: ), id: KR2b0014_krp_009-bkkpn78}
+  - {type: 'kr:newline', offset: 926, content: '
+
+      ', id: KR2b0014_krp_009-bkkkrnewl48}
+  - {type: line-break, offset: 926, content: '', id: KR2b0014_SBCK_009-3a09}
+  - {type: punctuation, offset: 926, content: (, id: KR2b0014_krp_009-bkkpn79}
+  - {type: 'kr:non-cjk', offset: 926, content: ○, id: KR2b0014_krp_009-bkkkrnonc11}
+  - {type: variant, offset: 926, length: 0, content: '', WYG: 太姬妻胡公而封諸}
+  - {type: variant, offset: 927, length: 3, content: 今陳州, WYG: 賜姓媯氏後五}
+  - {type: punctuation, offset: 930, content: /, id: KR2b0014_krp_009-bkkpn80}
+  - {type: punctuation, offset: 935, content: ), id: KR2b0014_krp_009-bkkpn81}
+  - {type: 'kr:newline', offset: 935, content: '
+
+      ', id: KR2b0014_krp_009-bkkkrnewl49}
+  - {type: page-break, offset: 935, content: '', id: KR2b0014_SBCK_009-3b}
+  - {type: 'kr:newline', offset: 935, content: '
+
+      ', id: KR2b0014_krp_009-bkkkrnewl50}
+  - {type: line-break, offset: 935, content: '', id: KR2b0014_SBCK_009-3b01}
+  - {type: indent, offset: 935, content: 　　　, id: KR2b0014_krp_009-bkkind28}
+  - {type: variant, offset: 935, length: 0, content: '', WYG: 陳今陳州}
+  - {type: punctuation, offset: 936, content: (, id: KR2b0014_krp_009-bkkpn82}
+  - {type: variant, offset: 936, length: 15, content: 諸郭鄰其子胡率德攺行周公復封諸, WYG: ''}
+  - {type: punctuation, offset: 951, content: /, id: KR2b0014_krp_009-bkkpn83}
+  - {type: variant, offset: 960, length: 1, content: 諫, WYG: 讒}
+  - {type: punctuation, offset: 966, content: ), id: KR2b0014_krp_009-bkkpn84}
+  - {type: 'kr:newline', offset: 966, content: '
+
+      ', id: KR2b0014_krp_009-bkkkrnewl51}
+  - {type: line-break, offset: 966, content: '', id: KR2b0014_SBCK_009-3b02}
+  - {type: punctuation, offset: 966, content: (, id: KR2b0014_krp_009-bkkpn85}
+  - {type: variant, offset: 966, length: 5, content: 武蔡今蔡州, WYG: 諸郭鄰其子胡率徳改行周公復封諸}
+  - {type: 'kr:non-cjk', offset: 967, content: ○, id: KR2b0014_krp_009-bkkkrnonc12}
+  - {type: punctuation, offset: 971, content: /, id: KR2b0014_krp_009-bkkpn86}
+  - {type: punctuation, offset: 977, content: ), id: KR2b0014_krp_009-bkkpn87}
+  - {type: 'kr:newline', offset: 977, content: '
+
+      ', id: KR2b0014_krp_009-bkkkrnewl52}
+  - {type: line-break, offset: 977, content: '', id: KR2b0014_SBCK_009-3b03}
+  - {type: indent, offset: 977, content: 　　　, id: KR2b0014_krp_009-bkkind29}
+  - {type: variant, offset: 977, length: 0, content: '', WYG: 武侯蔡今蔡州}
+  - {type: punctuation, offset: 978, content: (, id: KR2b0014_krp_009-bkkpn88}
+  - {type: variant, offset: 978, length: 11, content: 後五世至夷伯喜曹今曹州, WYG: ''}
+  - {type: 'kr:non-cjk', offset: 985, content: ○, id: KR2b0014_krp_009-bkkkrnonc13}
+  - {type: punctuation, offset: 989, content: /, id: KR2b0014_krp_009-bkkpn89}
+  - {type: punctuation, offset: 1002, content: ), id: KR2b0014_krp_009-bkkpn90}
+  - {type: 'kr:newline', offset: 1002, content: '
+
+      ', id: KR2b0014_krp_009-bkkkrnewl53}
+  - {type: line-break, offset: 1002, content: '', id: KR2b0014_SBCK_009-3b04}
+  - {type: variant, offset: 1002, length: 0, content: '', WYG: 後五世至夷伯喜曹今曹州稽古録卷九欽定四庫全書稽古録卷十宋}
+  - {type: page-break, offset: 1002, content: '', id: KR2b0014_WYG_010-1a, image: WYG0312/WYG0312-0416a.png}
+  - {type: variant, offset: 1004, length: 8, content: 溫公稽古錄卷之九, WYG: 光撰庚}
+  - {type: substitution, offset: 1008, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
+  - {type: 'kr:newline', offset: 1012, content: '
+
+      ', id: KR2b0014_krp_009-bkkkrnewl54}
+  back: []
+hash: sha256:f75a9ed4e67963b43745064fdfa5582ebaa61ef4e33225dee86490e7d27afe07
