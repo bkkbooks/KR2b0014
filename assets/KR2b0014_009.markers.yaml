@@ -7,7 +7,6 @@ markers:
       ', id: KR2b0014_krp_009-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR2b0014_SBCK_009-1a01}
   - {type: variant, offset: 0, length: 10, content: 司馬溫公稽古錄卷之九, WYG: ''}
-  - {type: substitution, offset: 6, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   body:
   - {type: 'kr:newline', offset: 0, content: '
 
@@ -22,7 +21,6 @@ markers:
   - {type: variant, offset: 2, length: 1, content: 恭, WYG: 共}
   - {type: punctuation, offset: 10, content: (, id: KR2b0014_krp_009-bkkpn1}
   - {type: variant, offset: 10, length: 0, content: '', WYG: 囏居}
-  - {type: substitution, offset: 10, original: 閑, replacement: 間, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4095}}
   - {type: punctuation, offset: 12, content: /, id: KR2b0014_krp_009-bkkpn2}
   - {type: variant, offset: 12, length: 2, content: 囏居, WYG: ''}
   - {type: punctuation, offset: 14, content: ), id: KR2b0014_krp_009-bkkpn3}
@@ -35,7 +33,6 @@ markers:
   - {type: indent, offset: 21, content: 　, id: KR2b0014_krp_009-bkkind3}
   - {type: 'kr:non-cjk', offset: 25, content: ○, id: KR2b0014_krp_009-bkkkrnonc2}
   - {type: variant, offset: 36, length: 1, content: 爕, WYG: 燮}
-  - {type: substitution, offset: 36, original: 爕, replacement: 燮, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-2557}}
   - {type: 'kr:non-cjk', offset: 37, content: ○, id: KR2b0014_krp_009-bkkkrnonc3}
   - {type: 'kr:newline', offset: 37, content: '
 
@@ -96,7 +93,6 @@ markers:
   - {type: variant, offset: 189, length: 0, content: '', WYG: 監察也王以為巫有}
   - {type: punctuation, offset: 196, content: /, id: KR2b0014_krp_009-bkkpn5}
   - {type: variant, offset: 196, length: 8, content: 監察也王以爲巫有, WYG: ''}
-  - {type: substitution, offset: 201, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: punctuation, offset: 204, content: ), id: KR2b0014_krp_009-bkkpn6}
   - {type: 'kr:newline', offset: 205, content: '
 
@@ -168,7 +164,6 @@ markers:
   - {type: 'kr:non-cjk', offset: 379, content: ○, id: KR2b0014_krp_009-bkkkrnonc5}
   - {type: punctuation, offset: 381, content: /, id: KR2b0014_krp_009-bkkpn14}
   - {type: variant, offset: 381, length: 15, content: 都曲阜留周公自輔爲太師周公薨於, WYG: 今兖}
-  - {type: substitution, offset: 389, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: punctuation, offset: 396, content: ), id: KR2b0014_krp_009-bkkpn15}
   - {type: 'kr:newline', offset: 396, content: '
 
@@ -185,9 +180,6 @@ markers:
   - {type: indent, offset: 399, content: 　　　, id: KR2b0014_krp_009-bkkind21}
   - {type: punctuation, offset: 400, content: (, id: KR2b0014_krp_009-bkkpn19}
   - {type: variant, offset: 400, length: 15, content: 爲四岳封於吕太公事周爲文武師佐, WYG: ''}
-  - {type: substitution, offset: 400, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
-  - {type: substitution, offset: 402, original: 岳, replacement: 嶽, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4348}}
-  - {type: substitution, offset: 410, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: punctuation, offset: 415, content: /, id: KR2b0014_krp_009-bkkpn20}
   - {type: punctuation, offset: 430, content: ), id: KR2b0014_krp_009-bkkpn21}
   - {type: 'kr:newline', offset: 430, content: '
@@ -233,7 +225,6 @@ markers:
   - {type: indent, offset: 503, content: 　　　, id: KR2b0014_krp_009-bkkind22}
   - {type: punctuation, offset: 504, content: (, id: KR2b0014_krp_009-bkkpn31}
   - {type: variant, offset: 504, length: 15, content: 王封叔虞於唐在河汾之東叔虞子爕, WYG: ''}
-  - {type: substitution, offset: 518, original: 爕, replacement: 燮, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-2557}}
   - {type: punctuation, offset: 519, content: /, id: KR2b0014_krp_009-bkkpn32}
   - {type: punctuation, offset: 534, content: ), id: KR2b0014_krp_009-bkkpn33}
   - {type: 'kr:newline', offset: 534, content: '
@@ -244,7 +235,6 @@ markers:
   - {type: variant, offset: 534, length: 0, content: '', WYG: 王封叔虞於唐在河汾之東叔虞子燮為晉侯又四世}
   - {type: punctuation, offset: 539, content: /, id: KR2b0014_krp_009-bkkpn35}
   - {type: variant, offset: 539, length: 6, content: 爲晉侯又四世, WYG: ''}
-  - {type: substitution, offset: 539, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: punctuation, offset: 545, content: ), id: KR2b0014_krp_009-bkkpn36}
   - {type: 'kr:newline', offset: 545, content: '
 
@@ -254,7 +244,6 @@ markers:
   - {type: punctuation, offset: 546, content: (, id: KR2b0014_krp_009-bkkpn37}
   - {type: variant, offset: 546, length: 0, content: '', WYG: 仲嬴姓其先出於髙陽氏至伯益佐禹}
   - {type: variant, offset: 548, length: 1, content: 爲, WYG: 為}
-  - {type: substitution, offset: 548, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: punctuation, offset: 561, content: /, id: KR2b0014_krp_009-bkkpn38}
   - {type: variant, offset: 561, length: 1, content: 仲, WYG: 來}
   - {type: variant, offset: 562, length: 1, content: 嬴, WYG: 革}
@@ -287,9 +276,7 @@ markers:
   - {type: punctuation, offset: 606, content: (, id: KR2b0014_krp_009-bkkpn43}
   - {type: punctuation, offset: 621, content: /, id: KR2b0014_krp_009-bkkpn44}
   - {type: variant, offset: 622, length: 1, content: 爲, WYG: 為}
-  - {type: substitution, offset: 622, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: variant, offset: 633, length: 1, content: 爲, WYG: 為}
-  - {type: substitution, offset: 633, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: punctuation, offset: 636, content: ), id: KR2b0014_krp_009-bkkpn45}
   - {type: 'kr:newline', offset: 636, content: '
 
@@ -312,12 +299,9 @@ markers:
   - {type: variant, offset: 660, length: 0, content: '', WYG: 芈姓其先出於髙陽氏有子曰黎為髙}
   - {type: variant, offset: 662, length: 1, content: 火, WYG: 大}
   - {type: variant, offset: 666, length: 1, content: 德, WYG: 徳}
-  - {type: substitution, offset: 673, original: 呉, replacement: 吳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3155}}
   - {type: variant, offset: 674, length: 2, content: 囬芉, WYG: 回代為祝融其後子孫蕃衍為八}
-  - {type: substitution, offset: 674, original: 囬, replacement: 回, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3885}}
   - {type: punctuation, offset: 675, content: /, id: KR2b0014_krp_009-bkkpn50}
   - {type: variant, offset: 677, length: 13, content: 其先出於高陽氏有子曰黎爲高, WYG: 夏商}
-  - {type: substitution, offset: 688, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: punctuation, offset: 690, content: ), id: KR2b0014_krp_009-bkkpn51}
   - {type: 'kr:newline', offset: 690, content: '
 
@@ -325,12 +309,9 @@ markers:
   - {type: line-break, offset: 690, content: '', id: KR2b0014_SBCK_009-2b09}
   - {type: punctuation, offset: 690, content: (, id: KR2b0014_krp_009-bkkpn52}
   - {type: variant, offset: 692, length: 1, content: 爲, WYG: 為}
-  - {type: substitution, offset: 692, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: variant, offset: 696, length: 1, content: 巳, WYG: 已}
   - {type: punctuation, offset: 705, content: /, id: KR2b0014_krp_009-bkkpn53}
   - {type: variant, offset: 705, length: 30, content: 代爲祝融其後子孫蕃衍爲八姓夏商曹姓鄒莒斟姓無後呉囬之孫曰季連, WYG: ''}
-  - {type: substitution, offset: 706, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
-  - {type: substitution, offset: 715, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: punctuation, offset: 720, content: ), id: KR2b0014_krp_009-bkkpn54}
   - {type: 'kr:newline', offset: 720, content: '
 
@@ -341,11 +322,7 @@ markers:
       ', id: KR2b0014_krp_009-bkkkrnewl40}
   - {type: line-break, offset: 720, content: '', id: KR2b0014_SBCK_009-3a01}
   - {type: punctuation, offset: 720, content: (, id: KR2b0014_krp_009-bkkpn55}
-  - {type: substitution, offset: 728, original: 呉, replacement: 吳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3155}}
-  - {type: substitution, offset: 729, original: 囬, replacement: 回, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3885}}
   - {type: punctuation, offset: 735, content: /, id: KR2b0014_krp_009-bkkpn56}
-  - {type: substitution, offset: 746, original: 鄔, replacement: 塢, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3780}}
-  - {type: substitution, offset: 748, original: 偪, replacement: 逼, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1209}}
   - {type: punctuation, offset: 750, content: ), id: KR2b0014_krp_009-bkkpn57}
   - {type: 'kr:newline', offset: 750, content: '
 
@@ -355,9 +332,7 @@ markers:
   - {type: variant, offset: 750, length: 1, content: 苖, WYG: 曹姓鄒莒斟姓無後呉回之孫曰季連為芈姓楚之祖也世居蠻荆為君長其苗}
   - {type: punctuation, offset: 765, content: /, id: KR2b0014_krp_009-bkkpn59}
   - {type: variant, offset: 765, length: 3, content: 爲芉姓, WYG: 事成王封為}
-  - {type: substitution, offset: 765, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: variant, offset: 769, length: 11, content: 之祖也世居蠻荆爲君長其, WYG: 子熊繹後}
-  - {type: substitution, offset: 776, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: punctuation, offset: 780, content: ), id: KR2b0014_krp_009-bkkpn60}
   - {type: 'kr:newline', offset: 780, content: '
 
@@ -368,7 +343,6 @@ markers:
   - {type: variant, offset: 785, length: 1, content: 芉, WYG: 芈}
   - {type: punctuation, offset: 788, content: /, id: KR2b0014_krp_009-bkkpn62}
   - {type: variant, offset: 788, length: 10, content: 事成王封爲楚子熊繹後, WYG: ''}
-  - {type: substitution, offset: 792, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: punctuation, offset: 798, content: ), id: KR2b0014_krp_009-bkkpn63}
   - {type: 'kr:newline', offset: 798, content: '
 
@@ -389,7 +363,6 @@ markers:
   - {type: 'kr:non-cjk', offset: 836, content: ○, id: KR2b0014_krp_009-bkkkrnonc9}
   - {type: variant, offset: 837, length: 5, content: 今應天府爲, WYG: 世為}
   - {type: punctuation, offset: 841, content: /, id: KR2b0014_krp_009-bkkpn68}
-  - {type: substitution, offset: 841, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: punctuation, offset: 855, content: ), id: KR2b0014_krp_009-bkkpn69}
   - {type: 'kr:newline', offset: 855, content: '
 
@@ -473,9 +446,8 @@ markers:
   - {type: variant, offset: 1002, length: 0, content: '', WYG: 後五世至夷伯喜曹今曹州稽古録卷九欽定四庫全書稽古録卷十宋}
   - {type: page-break, offset: 1002, content: '', id: KR2b0014_WYG_010-1a, image: WYG0312/WYG0312-0416a.png}
   - {type: variant, offset: 1004, length: 8, content: 溫公稽古錄卷之九, WYG: 光撰庚}
-  - {type: substitution, offset: 1008, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: 'kr:newline', offset: 1012, content: '
 
       ', id: KR2b0014_krp_009-bkkkrnewl54}
   back: []
-hash: sha256:f75a9ed4e67963b43745064fdfa5582ebaa61ef4e33225dee86490e7d27afe07
+hash: sha256:c74d39590e1f751d948072d057bf1d393a09de1baef4f8b860ad1f7dffae0395

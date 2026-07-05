@@ -8,7 +8,6 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR2b0014_SBCK_018-1a01}
   - {type: variant, offset: 0, length: 4, content: 司馬温公, WYG: 欽定四庫全書}
   - {type: page-break, offset: 0, content: '', id: KR2b0014_WYG_018-1a, image: WYG0312/WYG0312-0517c.png}
-  - {type: substitution, offset: 2, original: 温, replacement: 溫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4515}}
   - {type: variant, offset: 8, length: 1, content: 之, WYG: ''}
   - {type: 'kr:newline', offset: 11, content: '
 
@@ -47,10 +46,8 @@ markers:
   - {type: variant, offset: 90, length: 0, content: '', WYG: 獄以聞行新編敕}
   - {type: punctuation, offset: 91, content: (, id: KR2b0014_krp_018-bkkpn10}
   - {type: variant, offset: 91, length: 0, content: '', WYG: 二月催欠司奏自即}
-  - {type: substitution, offset: 94, original: 欠, replacement: 缺, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4372}}
   - {type: punctuation, offset: 99, content: /, id: KR2b0014_krp_018-bkkpn11}
   - {type: variant, offset: 99, length: 25, content: 二月催欠司奏自即其振討平之七月甲申詔外任官各給職田, WYG: ''}
-  - {type: substitution, offset: 102, original: 欠, replacement: 缺, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4372}}
   - {type: punctuation, offset: 107, content: ), id: KR2b0014_krp_018-bkkpn12}
   - {type: 'kr:newline', offset: 107, content: '
 
@@ -60,7 +57,6 @@ markers:
   - {type: 'kr:non-cjk', offset: 112, content: ○, id: KR2b0014_krp_018-bkkkrnonc7}
   - {type: punctuation, offset: 124, content: /, id: KR2b0014_krp_018-bkkpn14}
   - {type: 'kr:non-cjk', offset: 131, content: ○, id: KR2b0014_krp_018-bkkkrnonc8}
-  - {type: substitution, offset: 138, original: 廵, replacement: 巡, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0267}}
   - {type: punctuation, offset: 141, content: ), id: KR2b0014_krp_018-bkkpn15}
   - {type: 'kr:newline', offset: 141, content: '
 
@@ -71,9 +67,7 @@ markers:
   - {type: 'kr:non-cjk', offset: 142, content: ○, id: KR2b0014_krp_018-bkkkrnonc9}
   - {type: variant, offset: 144, length: 13, content: 庚辰朔日食癸夘傅潛奏破契丹, WYG: 甲申詔外任官各給職田}
   - {type: 'kr:non-cjk', offset: 149, content: ○, id: KR2b0014_krp_018-bkkkrnonc10}
-  - {type: substitution, offset: 150, original: 夘, replacement: 卯, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0105}}
   - {type: punctuation, offset: 157, content: /, id: KR2b0014_krp_018-bkkpn17}
-  - {type: substitution, offset: 159, original: 税, replacement: 稅, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4522}}
   - {type: 'kr:non-cjk', offset: 160, content: ○, id: KR2b0014_krp_018-bkkkrnonc11}
   - {type: variant, offset: 163, length: 1, content: 寅, WYG: ''}
   - {type: punctuation, offset: 174, content: ), id: KR2b0014_krp_018-bkkpn18}
@@ -127,7 +121,6 @@ markers:
       ', id: KR2b0014_krp_018-bkkkrnewl11}
   - {type: line-break, offset: 275, content: '', id: KR2b0014_SBCK_018-1b01}
   - {type: punctuation, offset: 275, content: (, id: KR2b0014_krp_018-bkkpn28}
-  - {type: substitution, offset: 278, original: 内, replacement: 內, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4477}}
   - {type: punctuation, offset: 282, content: /, id: KR2b0014_krp_018-bkkpn29}
   - {type: variant, offset: 282, length: 7, content: 至邢洺是歲置羣, WYG: ''}
   - {type: 'kr:non-cjk', offset: 285, content: ○, id: KR2b0014_krp_018-bkkkrnonc19}
@@ -174,10 +167,8 @@ markers:
       ', id: KR2b0014_krp_018-bkkkrnewl15}
   - {type: line-break, offset: 411, content: '', id: KR2b0014_SBCK_018-1b05}
   - {type: punctuation, offset: 411, content: (, id: KR2b0014_krp_018-bkkpn43}
-  - {type: substitution, offset: 411, original: 偽, replacement: 僞, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4358}}
   - {type: 'kr:non-cjk', offset: 423, content: ○, id: KR2b0014_krp_018-bkkkrnonc25}
   - {type: punctuation, offset: 428, content: /, id: KR2b0014_krp_018-bkkpn44}
-  - {type: substitution, offset: 431, original: 廵, replacement: 巡, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0267}}
   - {type: punctuation, offset: 446, content: ), id: KR2b0014_krp_018-bkkpn45}
   - {type: 'kr:newline', offset: 446, content: '
 
@@ -185,7 +176,6 @@ markers:
   - {type: line-break, offset: 446, content: '', id: KR2b0014_SBCK_018-1b06}
   - {type: punctuation, offset: 446, content: (, id: KR2b0014_krp_018-bkkpn46}
   - {type: variant, offset: 446, length: 9, content: 月乙夘改葬元德皇后, WYG: 偽遁}
-  - {type: substitution, offset: 448, original: 夘, replacement: 卯, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0105}}
   - {type: 'kr:non-cjk', offset: 455, content: ○, id: KR2b0014_krp_018-bkkkrnonc26}
   - {type: variant, offset: 458, length: 1, content: 等, WYG: 入益州為均所}
   - {type: variant, offset: 460, length: 3, content: 王均於, WYG: 三月戊寅朔}
@@ -207,7 +197,6 @@ markers:
   - {type: variant, offset: 496, length: 13, content: 益州城下遂圍之五月甲辰河決, WYG: 普追}
   - {type: 'kr:non-cjk', offset: 503, content: ○, id: KR2b0014_krp_018-bkkkrnonc30}
   - {type: variant, offset: 510, length: 3, content: 陵命内, WYG: 均至富順監斬}
-  - {type: substitution, offset: 512, original: 内, replacement: 內, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4477}}
   - {type: punctuation, offset: 513, content: ), id: KR2b0014_krp_018-bkkpn51}
   - {type: 'kr:newline', offset: 513, content: '
 
@@ -276,7 +265,6 @@ markers:
   - {type: variant, offset: 661, length: 23, content: 十入寇十月甲寅張斌敗契丹於長城口乙夘奏契丹遁去, WYG: ''}
   - {type: punctuation, offset: 662, content: /, id: KR2b0014_krp_018-bkkpn68}
   - {type: 'kr:non-cjk', offset: 677, content: ○, id: KR2b0014_krp_018-bkkkrnonc42}
-  - {type: substitution, offset: 678, original: 夘, replacement: 卯, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0105}}
   - {type: punctuation, offset: 679, content: ), id: KR2b0014_krp_018-bkkpn69}
   - {type: 'kr:newline', offset: 679, content: '
 
@@ -304,7 +292,6 @@ markers:
   - {type: variant, offset: 738, length: 0, content: '', WYG: 廣}
   - {type: variant, offset: 739, length: 1, content: 榷, SBCK: 􅅦}
   - {type: variant, offset: 739, length: 1, content: 榷, WYG: 𣙜}
-  - {type: substitution, offset: 740, original: 塲, replacement: 場, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0143}}
   - {type: punctuation, offset: 745, content: ), id: KR2b0014_krp_018-bkkpn78}
   - {type: 'kr:newline', offset: 745, content: '
 
@@ -312,7 +299,6 @@ markers:
   - {type: line-break, offset: 745, content: '', id: KR2b0014_SBCK_018-2a06}
   - {type: punctuation, offset: 745, content: (, id: KR2b0014_krp_018-bkkpn79}
   - {type: variant, offset: 745, length: 0, content: '', WYG: 契丹互市壬契丹入冦乙酉北邊方田以梗虜騎五月寅籍河南民丁為兵之六月}
-  - {type: substitution, offset: 757, original: 衞, replacement: 衛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3699}}
   - {type: variant, offset: 762, length: 34, content: 之梗虜騎五月壬寅籍河南民丁為兵六月請輸榖於邊九月西蕃寇鎮戍軍知軍李繼, WYG: ''}
   - {type: punctuation, offset: 763, content: /, id: KR2b0014_krp_018-bkkpn80}
   - {type: 'kr:non-cjk', offset: 766, content: ○, id: KR2b0014_krp_018-bkkkrnonc47}
@@ -335,7 +321,6 @@ markers:
   - {type: line-break, offset: 812, content: '', id: KR2b0014_SBCK_018-2a08}
   - {type: punctuation, offset: 812, content: (, id: KR2b0014_krp_018-bkkpn85}
   - {type: variant, offset: 812, length: 12, content: 直昭文舘趙保吉寇金明都監, WYG: 請輸榖於邊以九月西蕃冦鎮戍軍知軍}
-  - {type: substitution, offset: 815, original: 舘, replacement: 館, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1122}}
   - {type: 'kr:non-cjk', offset: 816, content: ○, id: KR2b0014_krp_018-bkkkrnonc52}
   - {type: variant, offset: 826, length: 3, content: 周擊却, WYG: ''}
   - {type: punctuation, offset: 829, content: /, id: KR2b0014_krp_018-bkkpn86}
@@ -382,7 +367,6 @@ markers:
   - {type: 'kr:non-cjk', offset: 912, content: ○, id: KR2b0014_krp_018-bkkkrnonc58}
   - {type: variant, offset: 912, length: 12, content: 五月壬寅罷雄州榷塲十一月, WYG: 之}
   - {type: variant, offset: 919, length: 1, content: 榷, SBCK: 􅅦}
-  - {type: substitution, offset: 920, original: 塲, replacement: 場, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0143}}
   - {type: 'kr:non-cjk', offset: 921, content: ○, id: KR2b0014_krp_018-bkkkrnonc59}
   - {type: variant, offset: 927, length: 9, content: 陷子契丹入寇己卯王, WYG: 冦洪徳蕃將慶香等擊破之}
   - {type: punctuation, offset: 928, content: /, id: KR2b0014_krp_018-bkkpn98}
@@ -412,8 +396,6 @@ markers:
   - {type: variant, offset: 1, length: 1, content: 德, WYG: 徳}
   - {type: punctuation, offset: 3, content: (, id: KR2b0014_krp_018-bkkpn2}
   - {type: variant, offset: 3, length: 15, content: 奏契丹言泥酋長拔黄帥三百餘帳内, WYG: ''}
-  - {type: substitution, offset: 11, original: 黄, replacement: 黃, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4545}}
-  - {type: substitution, offset: 17, original: 内, replacement: 內, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4477}}
   - {type: punctuation, offset: 18, content: /, id: KR2b0014_krp_018-bkkpn3}
   - {type: 'kr:non-cjk', offset: 27, content: ○, id: KR2b0014_krp_018-bkkkrnonc1}
   - {type: variant, offset: 27, length: 0, content: '', WYG: 帥}
@@ -432,7 +414,6 @@ markers:
   - {type: variant, offset: 50, length: 0, content: '', WYG: 請}
   - {type: variant, offset: 51, length: 1, content: 卯, SBCK: 􅆗}
   - {type: variant, offset: 51, length: 1, content: 卯, WYG: 夘}
-  - {type: substitution, offset: 62, original: 内, replacement: 內, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4477}}
   - {type: punctuation, offset: 66, content: ), id: KR2b0014_krp_018-bkkpn7}
   - {type: 'kr:newline', offset: 66, content: '
 
@@ -463,7 +444,6 @@ markers:
   - {type: line-break, offset: 134, content: '', id: KR2b0014_SBCK_018-2b08}
   - {type: punctuation, offset: 134, content: (, id: KR2b0014_krp_018-bkkpn14}
   - {type: variant, offset: 134, length: 11, content: 潘羅支遣兄邦廸支入見九, WYG: ''}
-  - {type: substitution, offset: 140, original: 廸, replacement: 迪, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3712}}
   - {type: 'kr:non-cjk', offset: 144, content: ○, id: KR2b0014_krp_018-bkkkrnonc8}
   - {type: variant, offset: 146, length: 5, content: 減三司吏員, WYG: 禮院奏以懿徳明徳二后並祔太宗廟從之}
   - {type: punctuation, offset: 151, content: /, id: KR2b0014_krp_018-bkkpn15}
@@ -478,7 +458,6 @@ markers:
   - {type: punctuation, offset: 167, content: (, id: KR2b0014_krp_018-bkkpn17}
   - {type: 'kr:non-cjk', offset: 167, content: ○, id: KR2b0014_krp_018-bkkkrnonc11}
   - {type: variant, offset: 167, length: 0, content: '', WYG: 上潘羅支遣兄邦迪支入見準九月減三司吏員聞契丹將入冦議親征冦等請幸澶州吉}
-  - {type: substitution, offset: 169, original: 横, replacement: 橫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4506}}
   - {type: 'kr:non-cjk', offset: 171, content: ○, id: KR2b0014_krp_018-bkkkrnonc12}
   - {type: variant, offset: 171, length: 0, content: '', WYG: 作}
   - {type: variant, offset: 178, length: 1, content: 德, WYG: 徳}
@@ -500,7 +479,6 @@ markers:
   - {type: punctuation, offset: 218, content: /, id: KR2b0014_krp_018-bkkpn21}
   - {type: variant, offset: 218, length: 17, content: 地俟吉歲乃葬先作主祔廟契丹綂軍撻覽, WYG: 遣使以王繼忠表授石普求和十月命麟府保}
   - {type: 'kr:non-cjk', offset: 229, content: ○, id: KR2b0014_krp_018-bkkkrnonc14}
-  - {type: substitution, offset: 231, original: 綂, replacement: 統, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3723}}
   - {type: punctuation, offset: 235, content: ), id: KR2b0014_krp_018-bkkpn22}
   - {type: 'kr:newline', offset: 235, content: '
 
@@ -526,7 +504,6 @@ markers:
   - {type: variant, offset: 289, length: 2, content: 寇瀛, WYG: 許其和}
   - {type: 'kr:non-cjk', offset: 292, content: ○, id: KR2b0014_krp_018-bkkkrnonc16}
   - {type: variant, offset: 292, length: 13, content: 國信使奏潘羅支爲迷般囑所殺, WYG: 黎桓遣其明提入貢}
-  - {type: substitution, offset: 299, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: punctuation, offset: 305, content: ), id: KR2b0014_krp_018-bkkpn28}
   - {type: 'kr:newline', offset: 305, content: '
 
@@ -590,7 +567,6 @@ markers:
   - {type: punctuation, offset: 455, content: /, id: KR2b0014_krp_018-bkkpn42}
   - {type: variant, offset: 455, length: 13, content: 和願以兄禮事上上許之自是不, WYG: 二正月庚戌朔大赦}
   - {type: variant, offset: 469, length: 5, content: 爲寇二月正, WYG: 置𣙜塲於雄霸州安肅軍等}
-  - {type: substitution, offset: 469, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: punctuation, offset: 471, content: ), id: KR2b0014_krp_018-bkkpn43}
   - {type: punctuation, offset: 472, content: (, id: KR2b0014_krp_018-bkkpn44}
   - {type: punctuation, offset: 473, content: /, id: KR2b0014_krp_018-bkkpn45}
@@ -613,7 +589,6 @@ markers:
   - {type: variant, offset: 499, length: 1, content: 榷, SBCK: 􅅦}
   - {type: variant, offset: 499, length: 1, content: 榷, WYG: 間}
   - {type: variant, offset: 500, length: 1, content: 塲, WYG: 田}
-  - {type: substitution, offset: 500, original: 塲, replacement: 場, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0143}}
   - {type: variant, offset: 501, length: 1, content: 於, WYG: 給}
   - {type: variant, offset: 502, length: 1, content: 雄, WYG: 弓}
   - {type: variant, offset: 503, length: 1, content: 霸, WYG: 箭}
@@ -632,7 +607,6 @@ markers:
       ', id: KR2b0014_krp_018-bkkkrnewl18}
   - {type: line-break, offset: 508, content: '', id: KR2b0014_SBCK_018-3b01}
   - {type: punctuation, offset: 508, content: (, id: KR2b0014_krp_018-bkkpn50}
-  - {type: substitution, offset: 508, original: 税, replacement: 稅, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4522}}
   - {type: 'kr:non-cjk', offset: 509, content: ○, id: KR2b0014_krp_018-bkkkrnonc29}
   - {type: variant, offset: 509, length: 0, content: '', WYG: 増}
   - {type: variant, offset: 514, length: 1, content: 鉞, SBCK: 􅃏}
@@ -642,7 +616,6 @@ markers:
   - {type: punctuation, offset: 524, content: /, id: KR2b0014_krp_018-bkkpn51}
   - {type: variant, offset: 524, length: 33, content: 昭等及第初以近邊閑田給弓箭手永蠲其科九月癸丑趙德明始遣使入貢十月行, WYG: ''}
   - {type: 'kr:non-cjk', offset: 528, content: ○, id: KR2b0014_krp_018-bkkkrnonc31}
-  - {type: substitution, offset: 532, original: 閑, replacement: 間, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4095}}
   - {type: punctuation, offset: 541, content: ), id: KR2b0014_krp_018-bkkpn52}
   - {type: 'kr:newline', offset: 541, content: '
 
@@ -653,9 +626,7 @@ markers:
   - {type: 'kr:non-cjk', offset: 554, content: ○, id: KR2b0014_krp_018-bkkkrnonc33}
   - {type: punctuation, offset: 557, content: /, id: KR2b0014_krp_018-bkkpn54}
   - {type: variant, offset: 560, length: 1, content: 増, WYG: ''}
-  - {type: substitution, offset: 560, original: 増, replacement: 增, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4486}}
   - {type: variant, offset: 568, length: 1, content: 幷, WYG: 并}
-  - {type: substitution, offset: 568, original: 幷, replacement: 並, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4103}}
   - {type: punctuation, offset: 575, content: ), id: KR2b0014_krp_018-bkkpn55}
   - {type: 'kr:newline', offset: 575, content: '
 
@@ -683,10 +654,6 @@ markers:
   - {type: 'kr:non-cjk', offset: 618, content: ○, id: KR2b0014_krp_018-bkkkrnonc35}
   - {type: punctuation, offset: 625, content: /, id: KR2b0014_krp_018-bkkpn63}
   - {type: 'kr:non-cjk', offset: 626, content: ○, id: KR2b0014_krp_018-bkkkrnonc36}
-  - {type: substitution, offset: 628, original: 内, replacement: 內, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4477}}
-  - {type: substitution, offset: 629, original: 内, replacement: 內, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4477}}
-  - {type: substitution, offset: 635, original: 内, replacement: 內, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4477}}
-  - {type: substitution, offset: 636, original: 内, replacement: 內, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4477}}
   - {type: 'kr:non-cjk', offset: 639, content: ○, id: KR2b0014_krp_018-bkkkrnonc37}
   - {type: punctuation, offset: 641, content: ), id: KR2b0014_krp_018-bkkpn64}
   - {type: 'kr:newline', offset: 641, content: '
@@ -700,7 +667,6 @@ markers:
   - {type: punctuation, offset: 658, content: /, id: KR2b0014_krp_018-bkkpn66}
   - {type: variant, offset: 658, length: 34, content: 轉對己巳渭州奏妙娥等族萬七千餘口内臣撫安之上自明德太后之喪雖從易月之, WYG: ''}
   - {type: 'kr:non-cjk', offset: 660, content: ○, id: KR2b0014_krp_018-bkkkrnonc39}
-  - {type: substitution, offset: 674, original: 内, replacement: 內, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4477}}
   - {type: punctuation, offset: 675, content: ), id: KR2b0014_krp_018-bkkpn67}
   - {type: 'kr:newline', offset: 675, content: '
 
@@ -720,8 +686,6 @@ markers:
   - {type: 'kr:non-cjk', offset: 713, content: ○, id: KR2b0014_krp_018-bkkkrnonc41}
   - {type: variant, offset: 713, length: 1, content: 七, WYG: 上自明徳太后之䘮雖從易}
   - {type: variant, offset: 715, length: 12, content: 壬戌縁海安撫使邵曄上邕州, WYG: 之}
-  - {type: substitution, offset: 717, original: 縁, replacement: 緣, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3587}}
-  - {type: substitution, offset: 725, original: 邕, replacement: 雍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4132}}
   - {type: punctuation, offset: 727, content: /, id: KR2b0014_krp_018-bkkpn72}
   - {type: page-break, offset: 727, content: '', id: KR2b0014_WYG_018-4a, image: WYG0312/WYG0312-0519a.png}
   - {type: punctuation, offset: 745, content: ), id: KR2b0014_krp_018-bkkpn73}
@@ -760,7 +724,6 @@ markers:
   - {type: variant, offset: 782, length: 0, content: '', WYG: 逰}
   - {type: punctuation, offset: 798, content: /, id: KR2b0014_krp_018-bkkpn78}
   - {type: variant, offset: 798, length: 18, content: 内有叛亂者則不得不除耳未幾黎龍廷請入, WYG: 務勿禁從丁夘趙徳明遣使獻誓表十}
-  - {type: substitution, offset: 798, original: 内, replacement: 內, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4477}}
   - {type: punctuation, offset: 816, content: ), id: KR2b0014_krp_018-bkkpn79}
   - {type: 'kr:newline', offset: 816, content: '
 
@@ -785,11 +748,8 @@ markers:
       ', id: KR2b0014_krp_018-bkkkrnewl29}
   - {type: line-break, offset: 849, content: '', id: KR2b0014_SBCK_018-4a02}
   - {type: punctuation, offset: 849, content: (, id: KR2b0014_krp_018-bkkpn83}
-  - {type: substitution, offset: 858, original: 夘, replacement: 卯, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0105}}
-  - {type: substitution, offset: 863, original: 夘, replacement: 卯, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0105}}
   - {type: punctuation, offset: 867, content: /, id: KR2b0014_krp_018-bkkpn84}
   - {type: variant, offset: 867, length: 34, content: 正月己未上發東京丙寅至永安鎮丁夘謁諸五月丙申朔日食六月乙夘葬莊穆皇后, WYG: ''}
-  - {type: substitution, offset: 882, original: 夘, replacement: 卯, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0105}}
   - {type: punctuation, offset: 885, content: ), id: KR2b0014_krp_018-bkkpn85}
   - {type: 'kr:newline', offset: 885, content: '
 
@@ -797,7 +757,6 @@ markers:
   - {type: line-break, offset: 885, content: '', id: KR2b0014_SBCK_018-4a03}
   - {type: punctuation, offset: 885, content: (, id: KR2b0014_krp_018-bkkpn86}
   - {type: 'kr:non-cjk', offset: 892, content: ○, id: KR2b0014_krp_018-bkkkrnonc45}
-  - {type: substitution, offset: 895, original: 夘, replacement: 卯, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0105}}
   - {type: 'kr:non-cjk', offset: 901, content: ○, id: KR2b0014_krp_018-bkkkrnonc46}
   - {type: punctuation, offset: 901, content: /, id: KR2b0014_krp_018-bkkpn87}
   - {type: 'kr:non-cjk', offset: 908, content: ○, id: KR2b0014_krp_018-bkkkrnonc47}
@@ -862,7 +821,6 @@ markers:
   - {type: indent, offset: 1084, content: 　, id: KR2b0014_krp_018-bkkind2}
   - {type: punctuation, offset: 1086, content: (, id: KR2b0014_krp_018-bkkpn104}
   - {type: variant, offset: 1086, length: 15, content: 䲭尾戊辰大赦改元發卒修東京外郭, WYG: ''}
-  - {type: substitution, offset: 1086, original: 䲭, replacement: 鴟, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4247}}
   - {type: 'kr:non-cjk', offset: 1094, content: ○, id: KR2b0014_krp_018-bkkkrnonc57}
   - {type: punctuation, offset: 1101, content: /, id: KR2b0014_krp_018-bkkpn105}
   - {type: punctuation, offset: 1117, content: ), id: KR2b0014_krp_018-bkkpn106}
@@ -911,7 +869,6 @@ markers:
   - {type: variant, offset: 1217, length: 17, content: 丁巳置紏察在京刑獄司黎雅州轡拒命遣, WYG: ''}
   - {type: 'kr:non-cjk', offset: 1227, content: ○, id: KR2b0014_krp_018-bkkkrnonc64}
   - {type: punctuation, offset: 1234, content: /, id: KR2b0014_krp_018-bkkpn117}
-  - {type: substitution, offset: 1237, original: 夘, replacement: 卯, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0105}}
   - {type: 'kr:non-cjk', offset: 1249, content: ○, id: KR2b0014_krp_018-bkkkrnonc65}
   - {type: punctuation, offset: 1251, content: ), id: KR2b0014_krp_018-bkkpn118}
   - {type: 'kr:newline', offset: 1251, content: '
@@ -921,7 +878,6 @@ markers:
   - {type: punctuation, offset: 1251, content: (, id: KR2b0014_krp_018-bkkpn119}
   - {type: variant, offset: 1251, length: 0, content: '', WYG: 丁巳置紏察在京刑獄司十黎雅州轡拒命遣文思副使孫正辭等招安之月詔州府軍}
   - {type: 'kr:non-cjk', offset: 1257, content: ○, id: KR2b0014_krp_018-bkkkrnonc66}
-  - {type: substitution, offset: 1261, original: 夘, replacement: 卯, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0105}}
   - {type: punctuation, offset: 1268, content: /, id: KR2b0014_krp_018-bkkpn120}
   - {type: variant, offset: 1268, length: 11, content: 文思副使孫正辭等招安之, WYG: 賜外官}
   - {type: 'kr:non-cjk', offset: 1279, content: ○, id: KR2b0014_krp_018-bkkkrnonc67}
@@ -950,7 +906,6 @@ markers:
   - {type: punctuation, offset: 1319, content: (, id: KR2b0014_krp_018-bkkpn128}
   - {type: 'kr:non-cjk', offset: 1329, content: ○, id: KR2b0014_krp_018-bkkkrnonc69}
   - {type: punctuation, offset: 1336, content: /, id: KR2b0014_krp_018-bkkpn129}
-  - {type: substitution, offset: 1336, original: 争, replacement: 爭, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3177}}
   - {type: punctuation, offset: 1354, content: ), id: KR2b0014_krp_018-bkkpn130}
   - {type: 'kr:newline', offset: 1354, content: '
 
@@ -963,7 +918,6 @@ markers:
   - {type: variant, offset: 1357, length: 0, content: '', WYG: 之}
   - {type: punctuation, offset: 1358, content: (, id: KR2b0014_krp_018-bkkpn134}
   - {type: variant, offset: 1358, length: 0, content: '', WYG: 正月丁酉上發東京二月癸丑次河中}
-  - {type: substitution, offset: 1361, original: 寳, replacement: 寶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0606}}
   - {type: punctuation, offset: 1373, content: /, id: KR2b0014_krp_018-bkkpn135}
   - {type: variant, offset: 1373, length: 13, content: 正月丁酉上發東京二月癸丑次, WYG: 冊壬戌大赦戊辰自}
   - {type: punctuation, offset: 1388, content: ), id: KR2b0014_krp_018-bkkpn136}
@@ -975,7 +929,6 @@ markers:
   - {type: variant, offset: 1388, length: 0, content: '', WYG: 東還己夘次西京乙}
   - {type: punctuation, offset: 1406, content: /, id: KR2b0014_krp_018-bkkpn138}
   - {type: variant, offset: 1406, length: 30, content: 冊壬戌大赦戊辰自河中東還己夘次西京乙七月壬申朔免南方民丁身錢, WYG: ''}
-  - {type: substitution, offset: 1419, original: 夘, replacement: 卯, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0105}}
   - {type: punctuation, offset: 1424, content: ), id: KR2b0014_krp_018-bkkpn139}
   - {type: 'kr:newline', offset: 1424, content: '
 
@@ -990,7 +943,6 @@ markers:
   - {type: punctuation, offset: 1436, content: /, id: KR2b0014_krp_018-bkkpn141}
   - {type: 'kr:non-cjk', offset: 1440, content: ○, id: KR2b0014_krp_018-bkkkrnonc71}
   - {type: variant, offset: 1440, length: 0, content: '', WYG: 月}
-  - {type: substitution, offset: 1446, original: 岳, replacement: 嶽, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4348}}
   - {type: punctuation, offset: 1449, content: ), id: KR2b0014_krp_018-bkkpn142}
   - {type: variant, offset: 1449, length: 0, content: '', WYG: 錢七壬申朔免南方兵丁身}
   - {type: punctuation, offset: 1450, content: (, id: KR2b0014_krp_018-bkkpn143}
@@ -1026,8 +978,6 @@ markers:
   - {type: line-break, offset: 1524, content: '', id: KR2b0014_SBCK_018-5a04}
   - {type: punctuation, offset: 1524, content: (, id: KR2b0014_krp_018-bkkpn152}
   - {type: variant, offset: 1524, length: 11, content: 宫丁亥立徳妃劉后爲皇后, WYG: 司命保生天尊大帝景十一月甲辰詔增文武}
-  - {type: substitution, offset: 1528, original: 徳, replacement: 德, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4493}}
-  - {type: substitution, offset: 1532, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: punctuation, offset: 1535, content: /, id: KR2b0014_krp_018-bkkpn153}
   - {type: 'kr:non-cjk', offset: 1538, content: ○, id: KR2b0014_krp_018-bkkkrnonc76}
   - {type: variant, offset: 1544, length: 1, content: 景, WYG: ''}
@@ -1076,7 +1026,6 @@ markers:
       ', id: KR2b0014_krp_018-bkkkrnewl54}
   - {type: line-break, offset: 1620, content: '', id: KR2b0014_SBCK_018-5a07}
   - {type: punctuation, offset: 1620, content: (, id: KR2b0014_krp_018-bkkpn170}
-  - {type: substitution, offset: 1622, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: 'kr:non-cjk', offset: 1625, content: ○, id: KR2b0014_krp_018-bkkkrnonc83}
   - {type: punctuation, offset: 1637, content: /, id: KR2b0014_krp_018-bkkpn171}
   - {type: 'kr:non-cjk', offset: 1652, content: ○, id: KR2b0014_krp_018-bkkkrnonc84}
@@ -1120,11 +1069,9 @@ markers:
   - {type: variant, offset: 1721, length: 16, content: 藏崇文院六月己酉朔日食閏月己夘朔, WYG: 元執符御厯含真體道玉皇大天帝}
   - {type: 'kr:non-cjk', offset: 1725, content: ○, id: KR2b0014_krp_018-bkkkrnonc89}
   - {type: 'kr:non-cjk', offset: 1732, content: ○, id: KR2b0014_krp_018-bkkkrnonc90}
-  - {type: substitution, offset: 1735, original: 夘, replacement: 卯, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0105}}
   - {type: punctuation, offset: 1737, content: /, id: KR2b0014_krp_018-bkkpn183}
   - {type: 'kr:non-cjk', offset: 1739, content: ○, id: KR2b0014_krp_018-bkkkrnonc91}
   - {type: variant, offset: 1739, length: 0, content: '', WYG: 院}
-  - {type: substitution, offset: 1753, original: 内, replacement: 內, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4477}}
   - {type: punctuation, offset: 1754, content: ), id: KR2b0014_krp_018-bkkpn184}
   - {type: 'kr:newline', offset: 1754, content: '
 
@@ -1138,11 +1085,8 @@ markers:
   - {type: punctuation, offset: 1757, content: (, id: KR2b0014_krp_018-bkkpn188}
   - {type: variant, offset: 1757, length: 16, content: 七月廣南奏撫水蠻寇融州又寇宜州州, WYG: ''}
   - {type: punctuation, offset: 1773, content: /, id: KR2b0014_krp_018-bkkpn189}
-  - {type: substitution, offset: 1776, original: 徳, replacement: 德, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4493}}
   - {type: variant, offset: 1782, length: 1, content: 羗, WYG: 羌}
-  - {type: substitution, offset: 1782, original: 羗, replacement: 羌, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1660}}
   - {type: variant, offset: 1784, length: 1, content: 羗, WYG: 羌}
-  - {type: substitution, offset: 1784, original: 羗, replacement: 羌, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1660}}
   - {type: 'kr:non-cjk', offset: 1788, content: ○, id: KR2b0014_krp_018-bkkkrnonc92}
   - {type: punctuation, offset: 1788, content: ), id: KR2b0014_krp_018-bkkpn190}
   - {type: 'kr:newline', offset: 1788, content: '
@@ -1153,12 +1097,10 @@ markers:
   - {type: variant, offset: 1788, length: 1, content: 囉, WYG: 之七月廣南奏撫水蠻冦融州又冦宜州州兵擊却八月己夘行新編敕斬總噶爾罝勒斯賚}
   - {type: variant, offset: 1790, length: 1, content: 寇, WYG: 冦}
   - {type: variant, offset: 1792, length: 1, content: 羗, WYG: 羌}
-  - {type: substitution, offset: 1792, original: 羗, replacement: 羌, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1660}}
   - {type: variant, offset: 1803, length: 1, content: 斬, WYG: ''}
   - {type: punctuation, offset: 1806, content: /, id: KR2b0014_krp_018-bkkpn192}
   - {type: variant, offset: 1806, length: 30, content: 兵擊却之八月己夘行新編敕宗哥唃厮以年勞遷官十一月乙夘改來年元, WYG: ''}
   - {type: 'kr:non-cjk', offset: 1810, content: ○, id: KR2b0014_krp_018-bkkkrnonc93}
-  - {type: substitution, offset: 1813, original: 夘, replacement: 卯, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0105}}
   - {type: 'kr:non-cjk', offset: 1818, content: ○, id: KR2b0014_krp_018-bkkkrnonc94}
   - {type: punctuation, offset: 1822, content: ), id: KR2b0014_krp_018-bkkpn193}
   - {type: 'kr:newline', offset: 1822, content: '
@@ -1167,7 +1109,6 @@ markers:
   - {type: line-break, offset: 1822, content: '', id: KR2b0014_SBCK_018-5b04}
   - {type: punctuation, offset: 1822, content: (, id: KR2b0014_krp_018-bkkpn194}
   - {type: 'kr:non-cjk', offset: 1827, content: ○, id: KR2b0014_krp_018-bkkkrnonc95}
-  - {type: substitution, offset: 1831, original: 夘, replacement: 卯, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0105}}
   - {type: punctuation, offset: 1836, content: /, id: KR2b0014_krp_018-bkkpn195}
   - {type: 'kr:non-cjk', offset: 1838, content: ○, id: KR2b0014_krp_018-bkkkrnonc96}
   - {type: punctuation, offset: 1852, content: ), id: KR2b0014_krp_018-bkkpn196}
@@ -1194,7 +1135,6 @@ markers:
   - {type: variant, offset: 1895, length: 0, content: '', WYG: 莊}
   - {type: variant, offset: 1902, length: 13, content: 鬼他職專掌諫争曹瑋奏討宗哥, WYG: 果}
   - {type: punctuation, offset: 1903, content: /, id: KR2b0014_krp_018-bkkpn201}
-  - {type: substitution, offset: 1908, original: 争, replacement: 爭, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3177}}
   - {type: 'kr:non-cjk', offset: 1909, content: ○, id: KR2b0014_krp_018-bkkkrnonc99}
   - {type: variant, offset: 1916, length: 3, content: 破之京, WYG: ''}
   - {type: 'kr:non-cjk', offset: 1918, content: ○, id: KR2b0014_krp_018-bkkkrnonc100}
@@ -1219,7 +1159,6 @@ markers:
   - {type: punctuation, offset: 1954, content: (, id: KR2b0014_krp_018-bkkpn209}
   - {type: 'kr:non-cjk', offset: 1961, content: ○, id: KR2b0014_krp_018-bkkkrnonc101}
   - {type: variant, offset: 1961, length: 1, content: 兩, WYG: ''}
-  - {type: substitution, offset: 1969, original: 㡌, replacement: 帽, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1232}}
   - {type: punctuation, offset: 1971, content: /, id: KR2b0014_krp_018-bkkpn210}
   - {type: variant, offset: 1971, length: 31, content: 之獲其子仕漢有泉出拱聖營作祥源觀旦八月甲辰立昇王諱為皇太子大赦, WYG: ''}
   - {type: 'kr:non-cjk', offset: 1977, content: ○, id: KR2b0014_krp_018-bkkkrnonc102}
@@ -1231,9 +1170,7 @@ markers:
   - {type: line-break, offset: 1987, content: '', id: KR2b0014_SBCK_018-5b09}
   - {type: punctuation, offset: 1987, content: (, id: KR2b0014_krp_018-bkkpn212}
   - {type: 'kr:non-cjk', offset: 1988, content: ○, id: KR2b0014_krp_018-bkkkrnonc104}
-  - {type: substitution, offset: 1993, original: 昇, replacement: 升, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0043}}
   - {type: punctuation, offset: 2002, content: /, id: KR2b0014_krp_018-bkkpn213}
-  - {type: substitution, offset: 2014, original: 衞, replacement: 衛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3699}}
   - {type: variant, offset: 2015, length: 0, content: '', WYG: 赦}
   - {type: punctuation, offset: 2018, content: ), id: KR2b0014_krp_018-bkkpn214}
   - {type: variant, offset: 2018, length: 0, content: '', WYG: 旦八月甲辰立昇王受益為皇太子大三}
@@ -1282,7 +1219,6 @@ markers:
   - {type: punctuation, offset: 2103, content: (, id: KR2b0014_krp_018-bkkpn227}
   - {type: punctuation, offset: 2112, content: /, id: KR2b0014_krp_018-bkkpn228}
   - {type: variant, offset: 2112, length: 25, content: 正月宥州羗臘兒寇延州南決河二月丁酉奏已塞上不豫四月, WYG: ''}
-  - {type: substitution, offset: 2116, original: 羗, replacement: 羌, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1660}}
   - {type: punctuation, offset: 2121, content: ), id: KR2b0014_krp_018-bkkpn229}
   - {type: 'kr:newline', offset: 2121, content: '
 
@@ -1301,10 +1237,8 @@ markers:
   - {type: punctuation, offset: 2154, content: (, id: KR2b0014_krp_018-bkkpn233}
   - {type: 'kr:non-cjk', offset: 2154, content: ○, id: KR2b0014_krp_018-bkkkrnonc114}
   - {type: variant, offset: 2154, length: 0, content: '', WYG: 州南決河二月丁酉奏已塞決上不豫四月丁亥黒風晝晦六月丙申河復滑州西北殺}
-  - {type: substitution, offset: 2168, original: 偽, replacement: 僞, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4358}}
   - {type: punctuation, offset: 2171, content: /, id: KR2b0014_krp_018-bkkpn234}
   - {type: variant, offset: 2171, length: 11, content: 丁亥黒風晝晦六月丙申河, WYG: 瑞謀大臣}
-  - {type: substitution, offset: 2173, original: 黒, replacement: 黑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3297}}
   - {type: 'kr:non-cjk', offset: 2177, content: ○, id: KR2b0014_krp_018-bkkkrnonc115}
   - {type: variant, offset: 2183, length: 5, content: 決滑州西北, WYG: 用冦凖事覺斬之遣中使詣長}
   - {type: punctuation, offset: 2188, content: ), id: KR2b0014_krp_018-bkkpn235}
@@ -1382,7 +1316,6 @@ markers:
   - {type: variant, offset: 2356, length: 2, content: 書入, WYG: 太后處分己未大赦文武京朝官各遷一資}
   - {type: 'kr:non-cjk', offset: 2359, content: ○, id: KR2b0014_krp_018-bkkkrnonc123}
   - {type: variant, offset: 2359, length: 14, content: 丁夘貶道州司馬寇凖為雷州司户, WYG: ''}
-  - {type: substitution, offset: 2360, original: 夘, replacement: 卯, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0105}}
   - {type: punctuation, offset: 2373, content: /, id: KR2b0014_krp_018-bkkpn258}
   - {type: 'kr:non-cjk', offset: 2373, content: ○, id: KR2b0014_krp_018-bkkkrnonc124}
   - {type: punctuation, offset: 2390, content: ), id: KR2b0014_krp_018-bkkpn259}
@@ -1405,7 +1338,6 @@ markers:
   - {type: line-break, offset: 2424, content: '', id: KR2b0014_SBCK_018-6b04}
   - {type: punctuation, offset: 2424, content: (, id: KR2b0014_krp_018-bkkpn263}
   - {type: variant, offset: 2424, length: 6, content: 州屬羗慶香帥, WYG: 山陵物伏誅丁謂亦貶官連坐者甚}
-  - {type: substitution, offset: 2426, original: 羗, replacement: 羌, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1660}}
   - {type: variant, offset: 2431, length: 10, content: 叛歸趙德明十月己酉葬, WYG: 七}
   - {type: 'kr:non-cjk', offset: 2436, content: ○, id: KR2b0014_krp_018-bkkkrnonc127}
   - {type: punctuation, offset: 2441, content: /, id: KR2b0014_krp_018-bkkpn264}
@@ -1420,7 +1352,6 @@ markers:
   - {type: punctuation, offset: 2458, content: (, id: KR2b0014_krp_018-bkkpn266}
   - {type: variant, offset: 2458, length: 0, content: '', WYG: 州屬羌沁藏帥衆叛數歸趙徳明十月己葬真宗于永定陵罝勒斯賚與趙徳明相攻十一}
   - {type: variant, offset: 2464, length: 3, content: 唃厮囉, WYG: 罝勒斯賚}
-  - {type: substitution, offset: 2468, original: 内, replacement: 內, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4477}}
   - {type: 'kr:non-cjk', offset: 2470, content: ○, id: KR2b0014_krp_018-bkkkrnonc129}
   - {type: punctuation, offset: 2475, content: /, id: KR2b0014_krp_018-bkkpn267}
   - {type: variant, offset: 2475, length: 21, content: 真宗于永定陵唃厮囉數與趙德明相攻十一寇施州, WYG: ''}
@@ -1431,20 +1362,17 @@ markers:
   - {type: line-break, offset: 2493, content: '', id: KR2b0014_SBCK_018-6b06}
   - {type: punctuation, offset: 2493, content: (, id: KR2b0014_krp_018-bkkpn269}
   - {type: punctuation, offset: 2496, content: /, id: KR2b0014_krp_018-bkkpn270}
-  - {type: substitution, offset: 2498, original: 彦, replacement: 彥, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4492}}
   - {type: punctuation, offset: 2500, content: ), id: KR2b0014_krp_018-bkkpn271}
   - {type: 'kr:newline', offset: 2500, content: '
 
       ', id: KR2b0014_krp_018-bkkkrnewl84}
   - {type: line-break, offset: 2500, content: '', id: KR2b0014_SBCK_018-6b07}
   - {type: variant, offset: 2500, length: 4, content: 司馬温公, WYG: 冦施州}
-  - {type: substitution, offset: 2502, original: 温, replacement: 溫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4515}}
   - {type: page-break, offset: 2504, content: '', id: KR2b0014_WYG_018-7a, image: WYG0312/WYG0312-0520c.png}
   - {type: page-break, offset: 2504, content: '', id: KR2b0014_WYG_018-7b, image: WYG0312/WYG0312-0520d.png}
-  - {type: substitution, offset: 2506, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: variant, offset: 2508, length: 1, content: 之, WYG: ''}
   - {type: 'kr:newline', offset: 2511, content: '
 
       ', id: KR2b0014_krp_018-bkkkrnewl85}
   back: []
-hash: sha256:576988870f1a8f8e7e8f3c9a0dcaa5bd9afa31dcf8bc51fd0cef08caa7d42824
+hash: sha256:fbd01f9efe95a4d8e9833804eb99a1f6667bc748130ee441c6db98c8218ba032
