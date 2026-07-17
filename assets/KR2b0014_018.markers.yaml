@@ -402,6 +402,7 @@ markers:
   - {type: punctuation, offset: 978, content: ), id: KR2b0014_krp_018-bkkpn102}
   - {type: 'kr:non-cjk', offset: 978, content: ○, id: KR2b0014_krp_018-bkkkrnonc60}
   - {type: punctuation, offset: 978, content: (, id: KR2b0014_krp_018-bkkpn103}
+  - {type: 'voice:problem', offset: 978, length: 0, id: KR2b0014_bkk_018-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 978}
   - {type: punctuation, offset: 979, content: /, id: KR2b0014_krp_018-bkkpn104}
   - {type: variant, offset: 979, length: 1, content: 甲, WYG: ''}
   body:
@@ -411,6 +412,7 @@ markers:
       ', id: KR2b0014_krp_018-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR2b0014_SBCK_018-2b04}
   - {type: indent, offset: 0, content: 　, id: KR2b0014_krp_018-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR2b0014_bkk_018-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: variant, offset: 1, length: 1, content: 德, WYG: 徳}
   - {type: punctuation, offset: 3, content: (, id: KR2b0014_krp_018-bkkpn2}
   - {type: variant, offset: 3, length: 15, content: 奏契丹言泥酋長拔黄帥三百餘帳内, WYG: ''}
@@ -1455,4 +1457,4 @@ markers:
 
       ', id: KR2b0014_krp_018-bkkkrnewl85}
   back: []
-hash: sha256:1e1e7053a6e629a7d0d0d5088eb83ad2cd20168703b7c10216e8995ce9c4c02d
+hash: sha256:4c32fa6b2b49914068dc3beedf6ae754936a3803c358da8e1f3d73c59aa31b0d

@@ -151,6 +151,7 @@ markers:
   - {type: line-break, offset: 382, content: '', id: KR2b0014_SBCK_017-1b04}
   - {type: punctuation, offset: 382, content: (, id: KR2b0014_krp_017-bkkpn37}
   - {type: variant, offset: 382, length: 8, content: 其子從鎰入貢十二, WYG: ''}
+  - {type: 'voice:problem', offset: 382, length: 0, id: KR2b0014_bkk_017-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 382}
   - {type: 'kr:non-cjk', offset: 388, content: ○, id: KR2b0014_krp_017-bkkkrnonc22}
   - {type: variant, offset: 392, length: 1, content: 亥, WYG: 未}
   - {type: variant, offset: 394, length: 1, content: 還, WYG: ''}
@@ -165,6 +166,7 @@ markers:
       ', id: KR2b0014_krp_017-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR2b0014_SBCK_017-1b05}
   - {type: indent, offset: 0, content: 　, id: KR2b0014_krp_017-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR2b0014_bkk_017-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: punctuation, offset: 1, content: (, id: KR2b0014_krp_017-bkkpn2}
   - {type: 'kr:non-cjk', offset: 1, content: ○, id: KR2b0014_krp_017-bkkkrnonc1}
   - {type: variant, offset: 3, length: 13, content: 發曹單民夫數萬浚五丈渠江南, WYG: 丁亥上還至東京二}
@@ -2682,4 +2684,4 @@ markers:
 
       ', id: KR2b0014_krp_017-bkkkrnewl202}
   back: []
-hash: sha256:6be701d2e86062f43999498f31ace7b58e59acc3e6496a9c500ef2541453a846
+hash: sha256:b8a08ba2bf90f31c3e06a98dc700ce6ef4ecc508aa032510cbe5fd653bdd8b08

@@ -417,6 +417,7 @@ markers:
       ', id: KR2b0014_krp_019-bkkkrnewl32}
   - {type: line-break, offset: 912, content: '', id: KR2b0014_SBCK_019-2b02}
   - {type: punctuation, offset: 912, content: (, id: KR2b0014_krp_019-bkkpn115}
+  - {type: 'voice:problem', offset: 912, length: 0, id: KR2b0014_bkk_019-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 912}
   - {type: variant, offset: 913, length: 0, content: '', WYG: 十二月復置提㸃獄乙夘皇后郭氏請入道}
   - {type: substitution, offset: 916, original: 浄, replacement: 淨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20683}}
   - {type: 'kr:non-cjk', offset: 918, content: ○, id: KR2b0014_krp_019-bkkkrnonc52}
@@ -440,6 +441,7 @@ markers:
   - {type: punctuation, offset: 1, content: /, id: KR2b0014_krp_019-bkkpn3}
   - {type: variant, offset: 1, length: 1, content: 甲, WYG: ''}
   - {type: punctuation, offset: 2, content: ), id: KR2b0014_krp_019-bkkpn4}
+  - {type: 'voice:problem', offset: 2, length: 0, id: KR2b0014_bkk_019-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 2 with no matching '('}
   - {type: punctuation, offset: 5, content: (, id: KR2b0014_krp_019-bkkpn5}
   - {type: variant, offset: 5, length: 0, content: '', WYG: 七月河決横隴宗趙元昊冦環州}
   - {type: variant, offset: 8, length: 1, content: 宗, WYG: ''}
@@ -870,4 +872,4 @@ markers:
 
       ', id: KR2b0014_krp_019-bkkkrnewl39}
   back: []
-hash: sha256:91e7bee4ca097d94cc13bb781ccd227547cc446d834bbb57cdfee440f9d7c6da
+hash: sha256:38336c8e25028917639a1c4cf95a2ffc1766537e354a915a9a8cc219ddcff2e6

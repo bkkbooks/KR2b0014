@@ -23,6 +23,7 @@ markers:
   - {type: punctuation, offset: 10, content: (, id: KR2b0014_krp_009-bkkpn1}
   - {type: variant, offset: 10, length: 0, content: '', WYG: 囏居}
   - {type: substitution, offset: 10, original: 閑, replacement: 間, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20377}}
+  - {type: voice, offset: 10, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 12, content: /, id: KR2b0014_krp_009-bkkpn2}
   - {type: variant, offset: 12, length: 2, content: 囏居, WYG: ''}
   - {type: punctuation, offset: 14, content: ), id: KR2b0014_krp_009-bkkpn3}
@@ -94,6 +95,7 @@ markers:
   - {type: indent, offset: 180, content: 　, id: KR2b0014_krp_009-bkkind12}
   - {type: punctuation, offset: 189, content: (, id: KR2b0014_krp_009-bkkpn4}
   - {type: variant, offset: 189, length: 0, content: '', WYG: 監察也王以為巫有}
+  - {type: voice, offset: 189, length: 15, name: note, id: n2}
   - {type: punctuation, offset: 196, content: /, id: KR2b0014_krp_009-bkkpn5}
   - {type: variant, offset: 196, length: 8, content: 監察也王以爲巫有, WYG: ''}
   - {type: substitution, offset: 201, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
@@ -145,6 +147,7 @@ markers:
   - {type: indent, offset: 306, content: 　　　, id: KR2b0014_krp_009-bkkind20}
   - {type: punctuation, offset: 307, content: (, id: KR2b0014_krp_009-bkkpn7}
   - {type: variant, offset: 307, length: 0, content: '', WYG: 周公旦姬姓周文王之子武王之弟佐}
+  - {type: voice, offset: 307, length: 92, name: note, id: n3}
   - {type: punctuation, offset: 322, content: /, id: KR2b0014_krp_009-bkkpn8}
   - {type: variant, offset: 322, length: 0, content: '', WYG: 王幼}
   - {type: variant, offset: 324, length: 7, content: 旦姬姓周文王之, WYG: 攝行天}
@@ -186,6 +189,7 @@ markers:
   - {type: punctuation, offset: 400, content: (, id: KR2b0014_krp_009-bkkpn19}
   - {type: variant, offset: 400, length: 15, content: 爲四岳封於吕太公事周爲文武師佐, WYG: ''}
   - {type: substitution, offset: 400, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
+  - {type: voice, offset: 400, length: 103, name: note, id: n4}
   - {type: substitution, offset: 402, original: 岳, replacement: 嶽, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20630}}
   - {type: substitution, offset: 410, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: punctuation, offset: 415, content: /, id: KR2b0014_krp_009-bkkpn20}
@@ -234,6 +238,7 @@ markers:
   - {type: indent, offset: 503, content: 　　　, id: KR2b0014_krp_009-bkkind22}
   - {type: punctuation, offset: 504, content: (, id: KR2b0014_krp_009-bkkpn31}
   - {type: variant, offset: 504, length: 15, content: 王封叔虞於唐在河汾之東叔虞子爕, WYG: ''}
+  - {type: voice, offset: 504, length: 41, name: note, id: n5}
   - {type: substitution, offset: 518, original: 爕, replacement: 燮, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-18840}}
   - {type: punctuation, offset: 519, content: /, id: KR2b0014_krp_009-bkkpn32}
   - {type: punctuation, offset: 534, content: ), id: KR2b0014_krp_009-bkkpn33}
@@ -254,6 +259,7 @@ markers:
   - {type: indent, offset: 545, content: 　　　, id: KR2b0014_krp_009-bkkind23}
   - {type: punctuation, offset: 546, content: (, id: KR2b0014_krp_009-bkkpn37}
   - {type: variant, offset: 546, length: 0, content: '', WYG: 仲嬴姓其先出於髙陽氏至伯益佐禹}
+  - {type: voice, offset: 546, length: 113, name: note, id: n6}
   - {type: variant, offset: 548, length: 1, content: 爲, WYG: 為}
   - {type: substitution, offset: 548, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: punctuation, offset: 561, content: /, id: KR2b0014_krp_009-bkkpn38}
@@ -311,6 +317,7 @@ markers:
   - {type: page-break, offset: 659, content: '', id: KR2b0014_WYG_009-3a, image: WYG0312/WYG0312-0415a.png}
   - {type: punctuation, offset: 660, content: (, id: KR2b0014_krp_009-bkkpn49}
   - {type: variant, offset: 660, length: 0, content: '', WYG: 芈姓其先出於髙陽氏有子曰黎為髙}
+  - {type: voice, offset: 660, length: 138, name: note, id: n7}
   - {type: variant, offset: 662, length: 1, content: 火, WYG: 大}
   - {type: variant, offset: 666, length: 1, content: 德, WYG: 徳}
   - {type: substitution, offset: 673, original: 呉, replacement: 吳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19438}}
@@ -378,6 +385,7 @@ markers:
   - {type: indent, offset: 798, content: 　　, id: KR2b0014_krp_009-bkkind25}
   - {type: punctuation, offset: 799, content: (, id: KR2b0014_krp_009-bkkpn64}
   - {type: variant, offset: 799, length: 15, content: 誅武庚祿父以微子代殷後封於宋世, WYG: ''}
+  - {type: voice, offset: 799, length: 56, name: note, id: n8}
   - {type: punctuation, offset: 814, content: /, id: KR2b0014_krp_009-bkkpn65}
   - {type: punctuation, offset: 829, content: ), id: KR2b0014_krp_009-bkkpn66}
   - {type: 'kr:newline', offset: 829, content: '
@@ -401,6 +409,7 @@ markers:
   - {type: page-break, offset: 855, content: '', id: KR2b0014_WYG_009-3b, image: WYG0312/WYG0312-0415b.png}
   - {type: punctuation, offset: 856, content: (, id: KR2b0014_krp_009-bkkpn70}
   - {type: variant, offset: 856, length: 0, content: '', WYG: 康叔封姬姓周公之弟也周公既伐管}
+  - {type: voice, offset: 856, length: 39, name: note, id: n9}
   - {type: punctuation, offset: 871, content: /, id: KR2b0014_krp_009-bkkpn71}
   - {type: variant, offset: 871, length: 19, content: 康叔封姬姓周公之弟也周公既伐管衛今衛州, WYG: ''}
   - {type: punctuation, offset: 886, content: ), id: KR2b0014_krp_009-bkkpn72}
@@ -420,6 +429,7 @@ markers:
   - {type: variant, offset: 895, length: 0, content: '', WYG: 衛今衛州}
   - {type: punctuation, offset: 896, content: (, id: KR2b0014_krp_009-bkkpn76}
   - {type: variant, offset: 896, length: 15, content: 大姬妻胡公而封諸陳賜姓媯氏後五, WYG: ''}
+  - {type: voice, offset: 896, length: 39, name: note, id: n10}
   - {type: punctuation, offset: 911, content: /, id: KR2b0014_krp_009-bkkpn77}
   - {type: punctuation, offset: 926, content: ), id: KR2b0014_krp_009-bkkpn78}
   - {type: 'kr:newline', offset: 926, content: '
@@ -444,6 +454,7 @@ markers:
   - {type: variant, offset: 935, length: 0, content: '', WYG: 陳今陳州}
   - {type: punctuation, offset: 936, content: (, id: KR2b0014_krp_009-bkkpn82}
   - {type: variant, offset: 936, length: 15, content: 諸郭鄰其子胡率德攺行周公復封諸, WYG: ''}
+  - {type: voice, offset: 936, length: 41, name: note, id: n11}
   - {type: punctuation, offset: 951, content: /, id: KR2b0014_krp_009-bkkpn83}
   - {type: variant, offset: 960, length: 1, content: 諫, WYG: 讒}
   - {type: punctuation, offset: 966, content: ), id: KR2b0014_krp_009-bkkpn84}
@@ -464,6 +475,7 @@ markers:
   - {type: variant, offset: 977, length: 0, content: '', WYG: 武侯蔡今蔡州}
   - {type: punctuation, offset: 978, content: (, id: KR2b0014_krp_009-bkkpn88}
   - {type: variant, offset: 978, length: 11, content: 後五世至夷伯喜曹今曹州, WYG: ''}
+  - {type: voice, offset: 978, length: 24, name: note, id: n12}
   - {type: 'kr:non-cjk', offset: 985, content: ○, id: KR2b0014_krp_009-bkkkrnonc13}
   - {type: punctuation, offset: 989, content: /, id: KR2b0014_krp_009-bkkpn89}
   - {type: punctuation, offset: 1002, content: ), id: KR2b0014_krp_009-bkkpn90}
@@ -479,4 +491,4 @@ markers:
 
       ', id: KR2b0014_krp_009-bkkkrnewl54}
   back: []
-hash: sha256:71da764c4ce11577a5f2bb5d4c78576cc7d3eedc18fcb3ccd0baa4bb200de5b4
+hash: sha256:2645b5774cff0e209d30d944ad45fafa28561f8d810a0685e7de44d36f880013

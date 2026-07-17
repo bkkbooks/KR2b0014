@@ -180,6 +180,7 @@ markers:
   - {type: line-break, offset: 338, content: '', id: KR2b0014_SBCK_014-1b03}
   - {type: punctuation, offset: 338, content: (, id: KR2b0014_krp_014-bkkpn57}
   - {type: variant, offset: 338, length: 1, content: 助, SBCK: 􅂇}
+  - {type: 'voice:problem', offset: 338, length: 0, id: KR2b0014_bkk_014-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 338}
   - {type: punctuation, offset: 353, content: /, id: KR2b0014_krp_014-bkkpn58}
   - {type: variant, offset: 369, length: 0, content: '', WYG: 助之鄴潰燕王奔昌黎秦人追而獲之}
   body:
@@ -189,6 +190,7 @@ markers:
       ', id: KR2b0014_krp_014-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR2b0014_SBCK_014-1b04}
   - {type: indent, offset: 0, content: 　　, id: KR2b0014_krp_014-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR2b0014_bkk_014-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: variant, offset: 7, length: 1, content: 爲, WYG: 為}
   - {type: substitution, offset: 7, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: 'kr:newline', offset: 17, content: '
@@ -7706,4 +7708,4 @@ markers:
 
       ', id: KR2b0014_krp_014-bkkkrnewl688}
   back: []
-hash: sha256:5b8a9b032cd256b8a1ef7e5c2e213525f1a6d89c4187227e740b294d0b355e6b
+hash: sha256:d22580a071b8294a468bf8e0258928eb2d879ad6bde81adda286f59ba6bd184e
